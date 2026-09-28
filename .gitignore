@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+# The archived university dataset and workflow are private evidence.
+*.knwf
+*.twb
+*.twbx
+

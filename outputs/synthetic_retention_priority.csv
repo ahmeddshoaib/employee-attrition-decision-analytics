@@ -1,0 +1,10 @@
+Department,JobRole,headcount,leavers,attrition_rate,priority
+Research & Development,Research Scientist,243,44,0.18106995884773663,Monitor
+Research & Development,Research Director,235,38,0.16170212765957448,Monitor
+Human Resources,Human Resources,43,9,0.20930232558139536,Monitor
+Human Resources,Manager,34,7,0.20588235294117646,Monitor
+Research & Development,Laboratory Technician,237,66,0.27848101265822783,Priority review
+Research & Development,Manufacturing Director,225,43,0.19111111111111112,Priority review
+Sales,Sales Representative,141,32,0.22695035460992907,Priority review
+Sales,Sales Executive,144,23,0.1597222222222222,Standard
+Sales,Manager,148,17,0.11486486486486487,Standard

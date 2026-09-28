@@ -1,0 +1,1451 @@
+EmployeeID,Age,Department,JobRole,OverTime,JobLevel,MonthlyIncome,TotalWorkingYears,YearsAtCompany,JobSatisfaction,WorkLifeBalance,RelationshipSatisfaction,BonusReceived,Attrition
+50001,32,Sales,Sales Representative,No,1,3546.0,12,7,2,3,3,1,No
+50002,41,Research & Development,Research Director,No,1,2872.0,23,9,3,4,3,0,No
+50003,47,Sales,Manager,Yes,2,4758.0,26,25,3,3,1,1,No
+50004,38,Sales,Sales Representative,No,2,6581.0,15,14,3,3,3,0,No
+50005,58,Research & Development,Manufacturing Director,Yes,4,8516.0,37,7,1,2,3,0,Yes
+50006,34,Human Resources,Manager,Yes,1,3126.0,14,9,3,3,4,1,No
+50007,40,Sales,Sales Representative,No,2,5042.0,19,19,2,3,1,0,No
+50008,30,Sales,Manager,No,1,3859.0,8,4,2,4,1,0,No
+50009,34,Research & Development,Research Scientist,No,1,2520.0,15,0,4,4,1,0,No
+50010,39,Research & Development,Laboratory Technician,No,2,5584.0,21,2,1,1,4,0,No
+50011,45,Research & Development,Research Scientist,No,2,5430.0,26,18,2,4,1,0,No
+50012,40,Sales,Sales Executive,No,1,1840.0,15,14,2,4,4,0,No
+50013,48,Research & Development,Laboratory Technician,No,3,8565.0,25,3,1,3,2,0,No
+50014,36,Sales,Sales Executive,No,2,6515.0,17,9,4,3,2,1,No
+50015,34,Research & Development,Laboratory Technician,No,1,2729.0,14,7,2,3,4,0,No
+50016,61,Research & Development,Laboratory Technician,No,2,4190.0,40,11,3,2,3,1,No
+50017,41,Research & Development,Manufacturing Director,Yes,2,5405.0,22,14,2,2,3,0,No
+50018,31,Research & Development,Research Director,Yes,1,2167.0,7,7,4,4,4,0,No
+50019,31,Sales,Manager,No,1,4678.0,6,1,3,4,4,1,No
+50020,29,Research & Development,Laboratory Technician,Yes,2,4778.0,10,0,2,1,3,0,Yes
+50021,45,Sales,Sales Executive,No,1,4910.0,27,10,4,4,2,0,No
+50022,34,Research & Development,Research Director,No,1,2708.0,14,4,4,2,4,0,No
+50023,38,Human Resources,Human Resources,Yes,3,6849.0,16,12,3,1,3,0,No
+50024,36,Sales,Sales Representative,Yes,2,6340.0,12,6,1,4,4,1,Yes
+50025,44,Sales,Sales Representative,No,2,4909.0,24,0,3,1,4,1,No
+50026,29,Research & Development,Research Scientist,No,1,3695.0,9,3,3,1,3,0,No
+50027,27,Research & Development,Manufacturing Director,No,1,4433.0,8,6,2,2,2,0,No
+50028,39,Research & Development,Laboratory Technician,No,1,2950.0,21,10,1,2,4,0,Yes
+50029,42,Research & Development,Research Scientist,Yes,3,5814.0,24,14,3,1,4,0,No
+50030,40,Sales,Sales Representative,No,1,2137.0,19,5,4,1,1,0,No
+50031,30,Sales,Sales Executive,Yes,2,5725.0,8,2,2,2,3,0,Yes
+50032,43,Human Resources,Manager,No,2,5550.0,25,3,2,1,3,0,No
+50033,30,Research & Development,Research Scientist,No,1,4405.0,11,0,1,1,3,0,No
+50034,32,Research & Development,Laboratory Technician,No,1,3203.0,7,0,3,4,4,1,No
+50035,29,Research & Development,Research Director,No,1,2162.0,4,3,4,3,2,0,No
+50036,49,Research & Development,Research Scientist,Yes,2,3083.0,26,4,4,1,4,0,No
+50037,43,Research & Development,Research Director,Yes,2,7781.0,21,12,2,1,3,0,Yes
+50038,42,Research & Development,Manufacturing Director,No,3,7424.0,20,20,1,4,1,0,No
+50039,48,Research & Development,Research Director,No,1,3573.0,28,20,2,2,3,1,No
+50040,62,Sales,Sales Executive,Yes,5,10701.0,43,25,4,1,1,1,No
+50041,22,Research & Development,Manufacturing Director,No,1,2162.0,1,0,1,3,4,1,No
+50042,30,Sales,Manager,No,2,4485.0,7,3,1,4,4,1,No
+50043,31,Sales,Manager,Yes,1,5019.0,8,8,4,2,4,0,No
+50044,29,Research & Development,Research Scientist,Yes,2,5793.0,6,2,3,3,3,0,No
+50045,27,Sales,Manager,No,1,2763.0,5,4,1,2,2,1,No
+50046,34,Sales,Sales Executive,No,2,4096.0,16,12,1,1,2,1,No
+50047,26,Research & Development,Manufacturing Director,No,1,2986.0,3,1,2,4,4,0,No
+50048,40,Research & Development,Laboratory Technician,No,1,3166.0,15,2,3,4,1,0,No
+50049,37,Sales,Sales Representative,No,1,5294.0,14,0,4,4,4,1,No
+50050,41,Research & Development,Manufacturing Director,No,2,5031.0,19,5,4,1,2,0,No
+50051,42,Research & Development,Research Scientist,No,1,2379.0,23,7,2,3,3,0,No
+50052,42,Research & Development,Manufacturing Director,No,2,5147.0,18,12,2,3,3,1,No
+50053,34,Sales,Manager,No,1,3688.0,13,8,4,1,1,1,No
+50054,56,Sales,Sales Representative,No,1,2298.0,36,17,4,4,1,1,No
+50055,39,Sales,Sales Executive,No,3,7312.0,18,13,1,1,1,1,No
+50056,20,Sales,Manager,No,1,4538.0,2,2,3,2,4,0,No
+50057,28,Research & Development,Research Scientist,No,1,3575.0,3,2,3,4,1,0,No
+50058,21,Research & Development,Laboratory Technician,No,1,2733.0,0,0,1,3,3,0,Yes
+50059,37,Research & Development,Manufacturing Director,No,2,4724.0,17,16,4,3,1,0,No
+50060,36,Research & Development,Laboratory Technician,No,2,3707.0,12,4,2,2,4,0,No
+50061,33,Sales,Manager,No,1,3330.0,15,13,3,4,4,0,No
+50062,55,Research & Development,Laboratory Technician,No,4,8980.0,34,14,2,1,2,0,No
+50063,42,Research & Development,Research Director,No,1,2643.0,19,3,3,3,1,0,No
+50064,44,Sales,Sales Executive,No,2,6946.0,26,3,4,1,2,1,No
+50065,29,Research & Development,Manufacturing Director,No,1,4163.0,6,0,2,1,3,0,No
+50066,28,Research & Development,Manufacturing Director,Yes,1,1837.0,4,4,2,3,3,0,Yes
+50067,37,Research & Development,Research Scientist,No,1,1855.0,15,2,4,2,3,0,No
+50068,39,Research & Development,Research Scientist,No,2,4314.0,20,17,4,1,3,0,No
+50069,20,Research & Development,Manufacturing Director,No,1,4866.0,0,0,4,4,3,0,No
+50070,35,Research & Development,Manufacturing Director,No,1,4252.0,15,12,4,2,1,0,No
+50071,37,Research & Development,Manufacturing Director,No,2,6661.0,14,6,3,4,1,1,No
+50072,35,Research & Development,Research Scientist,No,1,3459.0,12,11,4,1,4,1,No
+50073,30,Sales,Sales Representative,Yes,1,3261.0,12,11,4,1,3,1,Yes
+50074,32,Research & Development,Research Director,No,1,2327.0,14,13,1,2,4,0,No
+50075,35,Research & Development,Research Scientist,Yes,2,5515.0,17,8,3,3,3,0,No
+50076,38,Research & Development,Laboratory Technician,No,1,3273.0,20,6,1,2,2,1,No
+50077,42,Research & Development,Laboratory Technician,No,3,6739.0,22,1,3,1,3,0,No
+50078,47,Sales,Manager,No,2,6656.0,29,25,2,3,3,0,No
+50079,34,Research & Development,Laboratory Technician,Yes,2,5086.0,9,8,2,4,1,0,Yes
+50080,33,Sales,Sales Representative,Yes,1,4648.0,8,4,4,1,2,1,Yes
+50081,41,Sales,Manager,No,2,3771.0,22,1,3,2,3,1,No
+50082,42,Research & Development,Research Scientist,No,4,11119.0,22,18,3,2,1,0,No
+50083,33,Sales,Manager,Yes,1,3114.0,10,3,4,3,1,0,No
+50084,44,Research & Development,Research Director,No,3,7586.0,21,12,1,1,1,0,No
+50085,46,Research & Development,Manufacturing Director,Yes,2,5980.0,24,16,3,1,3,0,Yes
+50086,49,Research & Development,Manufacturing Director,No,3,6502.0,24,3,1,1,1,0,No
+50087,53,Sales,Manager,No,3,7687.0,30,1,1,3,2,0,No
+50088,29,Research & Development,Research Director,Yes,2,5984.0,6,0,1,1,1,0,Yes
+50089,37,Research & Development,Research Director,Yes,1,2808.0,15,15,3,3,2,1,No
+50090,37,Research & Development,Laboratory Technician,No,1,2819.0,15,15,3,2,1,0,No
+50091,36,Research & Development,Laboratory Technician,No,1,3491.0,16,7,4,2,4,1,No
+50092,31,Sales,Sales Representative,No,1,3346.0,9,4,2,4,2,1,No
+50093,24,Research & Development,Research Scientist,No,1,4704.0,0,0,4,4,1,1,No
+50094,38,Research & Development,Research Director,No,2,5832.0,17,7,2,4,3,0,No
+50095,30,Research & Development,Research Director,Yes,2,5137.0,11,4,1,4,4,0,No
+50096,38,Research & Development,Manufacturing Director,Yes,1,3995.0,16,9,1,1,4,0,Yes
+50097,30,Research & Development,Laboratory Technician,No,1,1608.0,6,2,1,4,4,0,No
+50098,27,Research & Development,Laboratory Technician,Yes,1,2896.0,2,1,2,1,2,0,Yes
+50099,39,Research & Development,Laboratory Technician,No,3,7209.0,17,6,2,2,2,1,No
+50100,38,Human Resources,Manager,No,2,6204.0,14,9,4,3,2,0,No
+50101,42,Sales,Manager,Yes,2,5380.0,22,21,1,3,2,1,Yes
+50102,57,Sales,Manager,Yes,2,6512.0,36,7,2,3,4,0,No
+50103,39,Research & Development,Research Director,Yes,2,5981.0,18,1,4,3,1,0,No
+50104,41,Human Resources,Manager,No,2,4761.0,21,11,1,2,4,0,No
+50105,27,Sales,Manager,No,1,3324.0,4,0,2,3,4,0,No
+50106,25,Sales,Sales Representative,No,1,3818.0,0,0,1,2,4,0,Yes
+50107,51,Research & Development,Manufacturing Director,No,5,10046.0,31,7,3,2,3,1,No
+50108,29,Research & Development,Laboratory Technician,No,1,4828.0,10,8,4,3,4,0,No
+50109,28,Research & Development,Manufacturing Director,No,1,2452.0,4,2,1,3,1,0,No
+50110,37,Sales,Manager,No,1,3734.0,13,7,2,2,4,0,No
+50111,36,Research & Development,Laboratory Technician,No,3,7612.0,11,9,2,1,3,0,No
+50112,29,Research & Development,Manufacturing Director,No,2,4918.0,9,1,4,2,4,0,No
+50113,34,Research & Development,Research Scientist,No,1,2965.0,11,5,4,2,1,1,No
+50114,48,Research & Development,Manufacturing Director,No,3,6882.0,25,0,1,1,4,0,No
+50115,30,Research & Development,Laboratory Technician,No,1,4181.0,6,3,2,1,3,0,Yes
+50116,24,Sales,Sales Representative,Yes,1,3000.0,0,0,4,4,1,1,No
+50117,45,Sales,Sales Representative,No,2,4238.0,20,4,1,2,3,1,No
+50118,41,Sales,Sales Executive,No,2,6236.0,20,19,4,3,1,1,No
+50119,31,Research & Development,Manufacturing Director,Yes,2,5559.0,13,3,1,1,1,0,Yes
+50120,23,Research & Development,Manufacturing Director,No,1,4357.0,4,1,3,4,3,0,No
+50121,30,Research & Development,Laboratory Technician,No,1,4133.0,5,0,4,1,4,1,No
+50122,37,Research & Development,Research Scientist,Yes,2,7162.0,13,1,3,2,1,0,No
+50123,47,Research & Development,Laboratory Technician,No,3,7953.0,29,6,4,4,2,0,No
+50124,28,Research & Development,Research Scientist,No,2,4548.0,8,2,3,1,2,0,No
+50125,36,Research & Development,Laboratory Technician,No,2,5623.0,17,13,1,3,3,0,No
+50126,43,Research & Development,Manufacturing Director,Yes,3,6448.0,23,21,3,4,1,0,No
+50127,18,Research & Development,Research Scientist,No,1,3041.0,0,0,3,1,3,0,No
+50128,46,Research & Development,Manufacturing Director,No,2,3929.0,24,21,2,1,2,0,No
+50129,26,Research & Development,Research Scientist,Yes,1,3192.0,5,5,1,4,4,0,Yes
+50130,40,Research & Development,Research Director,No,2,5691.0,19,17,3,2,2,0,No
+50131,39,Research & Development,Manufacturing Director,Yes,1,3391.0,16,7,3,4,2,0,No
+50132,47,Sales,Sales Executive,Yes,2,4211.0,24,9,4,4,1,1,No
+50133,42,Research & Development,Manufacturing Director,No,2,3829.0,24,16,1,4,4,0,No
+50134,18,Research & Development,Research Scientist,No,1,5351.0,0,0,3,4,4,0,No
+50135,30,Research & Development,Research Scientist,No,2,5493.0,10,3,4,4,2,0,No
+50136,38,Research & Development,Research Director,No,2,4458.0,17,10,4,2,2,1,No
+50137,35,Human Resources,Manager,No,3,7366.0,10,10,4,4,4,0,No
+50138,41,Research & Development,Research Scientist,Yes,2,7170.0,16,3,1,2,2,0,Yes
+50139,44,Sales,Sales Executive,Yes,2,5758.0,21,16,1,3,1,0,No
+50140,42,Research & Development,Research Scientist,Yes,1,1200.0,24,23,3,1,1,0,Yes
+50141,35,Research & Development,Laboratory Technician,No,1,5837.0,17,9,2,4,3,0,No
+50142,20,Research & Development,Laboratory Technician,Yes,1,1786.0,0,0,1,3,1,0,Yes
+50143,33,Sales,Sales Executive,Yes,1,3265.0,11,4,1,4,1,0,Yes
+50144,41,Research & Development,Manufacturing Director,Yes,1,2430.0,18,4,1,2,1,0,Yes
+50145,27,Research & Development,Research Scientist,No,1,2784.0,8,1,2,2,4,0,No
+50146,43,Research & Development,Research Director,No,2,5456.0,18,6,3,3,4,0,No
+50147,45,Research & Development,Manufacturing Director,No,3,5086.0,24,18,1,4,4,0,No
+50148,38,Research & Development,Research Director,No,1,3369.0,16,8,1,3,2,0,No
+50149,18,Research & Development,Research Scientist,No,1,4483.0,0,0,2,4,2,0,No
+50150,25,Research & Development,Manufacturing Director,Yes,1,2691.0,1,0,4,1,2,0,Yes
+50151,54,Sales,Manager,No,1,2199.0,32,17,4,4,3,1,No
+50152,32,Sales,Sales Executive,Yes,1,3325.0,13,11,2,3,1,0,Yes
+50153,19,Research & Development,Research Director,No,1,3145.0,0,0,1,4,3,0,No
+50154,48,Research & Development,Laboratory Technician,No,1,2914.0,28,0,1,1,1,0,Yes
+50155,37,Research & Development,Research Director,No,2,4130.0,19,0,4,2,2,0,No
+50156,47,Sales,Sales Representative,Yes,4,9167.0,22,22,2,1,2,0,Yes
+50157,39,Research & Development,Research Director,No,1,3986.0,15,11,1,2,3,0,No
+50158,41,Sales,Sales Executive,No,2,4241.0,16,9,4,4,4,1,No
+50159,40,Sales,Sales Representative,No,1,2615.0,20,19,3,3,3,0,No
+50160,43,Sales,Sales Executive,No,3,7073.0,21,12,2,4,2,0,No
+50161,57,Research & Development,Research Scientist,No,3,6082.0,36,19,2,3,3,0,No
+50162,46,Sales,Sales Executive,Yes,2,5361.0,25,5,1,4,3,0,No
+50163,23,Research & Development,Laboratory Technician,No,2,6521.0,1,1,4,4,1,0,No
+50164,41,Research & Development,Research Scientist,No,2,5146.0,20,16,4,3,4,0,No
+50165,47,Research & Development,Manufacturing Director,Yes,2,4108.0,23,7,1,4,4,0,No
+50166,48,Research & Development,Manufacturing Director,No,2,5553.0,30,22,3,1,1,1,No
+50167,33,Sales,Manager,No,2,5040.0,14,10,1,3,1,0,No
+50168,47,Sales,Manager,No,2,5065.0,22,2,2,3,1,0,No
+50169,45,Research & Development,Research Scientist,No,1,3878.0,20,3,3,4,3,1,No
+50170,60,Human Resources,Human Resources,No,3,7572.0,36,22,1,3,1,1,No
+50171,30,Research & Development,Laboratory Technician,No,1,3482.0,10,6,3,1,1,0,No
+50172,32,Research & Development,Laboratory Technician,No,2,5145.0,11,7,1,3,3,0,No
+50173,34,Research & Development,Research Scientist,No,1,5307.0,16,6,3,4,1,0,No
+50174,33,Sales,Manager,No,1,4530.0,13,11,2,1,1,1,No
+50175,29,Research & Development,Manufacturing Director,No,1,4200.0,6,3,1,1,1,0,Yes
+50176,18,Research & Development,Manufacturing Director,Yes,1,3568.0,0,0,4,3,3,0,No
+50177,33,Research & Development,Research Scientist,No,1,2545.0,12,2,2,3,2,0,No
+50178,40,Human Resources,Manager,Yes,3,7965.0,22,2,4,3,2,0,No
+50179,33,Sales,Sales Executive,No,3,7080.0,12,11,4,1,3,1,No
+50180,54,Sales,Sales Representative,No,4,8181.0,31,22,1,3,1,1,No
+50181,37,Sales,Sales Representative,No,2,4981.0,15,7,3,3,3,0,No
+50182,49,Sales,Manager,No,2,4330.0,27,5,2,4,2,0,No
+50183,39,Research & Development,Laboratory Technician,No,1,4402.0,14,1,3,2,3,0,No
+50184,44,Research & Development,Research Scientist,No,4,9315.0,25,3,3,2,3,0,No
+50185,40,Sales,Sales Representative,No,2,5363.0,20,2,2,1,3,0,No
+50186,49,Sales,Sales Representative,No,4,8661.0,27,14,3,3,1,1,No
+50187,38,Research & Development,Research Scientist,Yes,3,6337.0,17,3,2,3,1,0,No
+50188,41,Research & Development,Research Scientist,Yes,1,1533.0,16,2,4,2,3,0,Yes
+50189,40,Sales,Sales Executive,No,1,2178.0,22,6,4,3,1,1,No
+50190,34,Research & Development,Laboratory Technician,Yes,1,2782.0,16,11,1,4,2,0,Yes
+50191,41,Sales,Sales Representative,No,2,4396.0,21,10,3,1,3,0,No
+50192,57,Research & Development,Laboratory Technician,No,3,7210.0,36,5,4,3,4,1,No
+50193,35,Research & Development,Manufacturing Director,No,4,9430.0,10,8,1,3,3,0,No
+50194,41,Sales,Sales Executive,Yes,1,3334.0,20,10,3,1,4,0,Yes
+50195,48,Research & Development,Research Director,No,3,8218.0,27,5,4,1,3,0,No
+50196,47,Research & Development,Research Director,No,3,6245.0,28,20,1,2,2,0,No
+50197,37,Research & Development,Research Scientist,No,2,5078.0,16,16,3,1,1,1,No
+50198,18,Sales,Sales Executive,Yes,1,3404.0,0,0,4,2,3,0,Yes
+50199,42,Research & Development,Research Scientist,No,1,4433.0,20,11,2,1,4,0,No
+50200,18,Research & Development,Laboratory Technician,Yes,1,3545.0,0,0,1,4,2,0,Yes
+50201,50,Sales,Sales Representative,No,3,7070.0,29,4,2,3,1,0,No
+50202,39,Human Resources,Human Resources,No,2,3711.0,20,6,2,2,1,0,No
+50203,46,Research & Development,Research Scientist,No,3,6140.0,27,16,3,4,3,0,No
+50204,29,Research & Development,Laboratory Technician,No,2,6186.0,10,10,2,1,3,0,No
+50205,23,Research & Development,Manufacturing Director,No,1,1582.0,1,1,2,3,1,0,No
+50206,39,Research & Development,Laboratory Technician,Yes,2,6409.0,15,14,4,3,1,0,No
+50207,37,Research & Development,Research Director,No,1,3900.0,12,10,3,4,3,0,No
+50208,33,Sales,Sales Representative,No,1,2777.0,13,8,4,1,2,1,No
+50209,38,Research & Development,Research Director,No,1,2701.0,20,13,3,3,2,0,No
+50210,62,Research & Development,Research Scientist,Yes,4,10406.0,39,29,4,4,2,1,No
+50211,45,Sales,Sales Representative,Yes,2,6470.0,27,20,1,4,3,1,No
+50212,46,Research & Development,Research Director,Yes,2,5093.0,23,15,4,1,3,0,No
+50213,45,Research & Development,Research Scientist,No,1,3571.0,24,3,4,4,1,0,No
+50214,50,Sales,Manager,No,1,2868.0,26,23,1,2,1,0,No
+50215,35,Sales,Sales Representative,Yes,1,3571.0,12,0,2,2,3,0,Yes
+50216,19,Sales,Sales Representative,No,1,2843.0,0,0,2,1,3,1,No
+50217,35,Research & Development,Manufacturing Director,Yes,1,3379.0,14,6,2,1,1,1,Yes
+50218,44,Research & Development,Manufacturing Director,No,2,6829.0,20,9,4,2,1,1,No
+50219,28,Sales,Sales Executive,No,1,3364.0,6,6,3,1,3,1,No
+50220,35,Research & Development,Research Director,No,2,4257.0,12,1,1,3,2,0,No
+50221,31,Research & Development,Manufacturing Director,No,2,3970.0,11,5,3,3,1,0,No
+50222,51,Research & Development,Research Director,No,2,5314.0,30,11,4,2,3,0,No
+50223,44,Sales,Sales Representative,No,2,4515.0,20,2,2,3,1,1,No
+50224,43,Human Resources,Manager,Yes,3,7172.0,22,5,4,3,1,0,No
+50225,43,Research & Development,Laboratory Technician,No,2,3742.0,25,10,3,1,3,0,No
+50226,37,Sales,Manager,No,1,4071.0,16,15,4,2,1,0,No
+50227,39,Research & Development,Research Director,No,3,5996.0,18,7,4,4,1,0,No
+50228,26,Research & Development,Research Director,Yes,1,3492.0,5,5,1,1,4,0,Yes
+50229,18,Research & Development,Manufacturing Director,Yes,1,3146.0,0,0,4,4,1,0,No
+50230,38,Research & Development,Research Director,No,2,6747.0,19,14,1,4,3,0,No
+50231,40,Research & Development,Laboratory Technician,No,1,3604.0,20,17,4,2,4,0,No
+50232,48,Research & Development,Laboratory Technician,No,4,10451.0,27,23,4,2,4,0,No
+50233,51,Human Resources,Manager,No,3,7455.0,33,24,2,1,4,0,No
+50234,51,Research & Development,Research Scientist,No,4,9983.0,30,22,1,3,2,0,No
+50235,28,Sales,Manager,No,1,3262.0,8,1,2,1,4,1,No
+50236,34,Sales,Sales Executive,No,1,3761.0,16,12,2,4,1,0,No
+50237,41,Research & Development,Manufacturing Director,Yes,2,6297.0,21,1,3,2,2,0,No
+50238,60,Sales,Sales Representative,Yes,4,9514.0,40,30,1,4,1,0,No
+50239,50,Research & Development,Laboratory Technician,Yes,2,5678.0,31,20,1,4,3,0,Yes
+50240,47,Research & Development,Laboratory Technician,No,3,6655.0,23,18,2,2,4,1,No
+50241,34,Sales,Sales Representative,No,1,3307.0,16,10,4,3,4,1,No
+50242,29,Sales,Sales Representative,No,1,4474.0,7,2,2,1,4,0,No
+50243,44,Research & Development,Laboratory Technician,No,4,9911.0,21,8,2,1,1,1,No
+50244,27,Research & Development,Manufacturing Director,No,1,2916.0,3,2,1,3,4,0,No
+50245,35,Research & Development,Research Director,No,1,2781.0,13,6,2,2,3,0,No
+50246,36,Sales,Sales Representative,No,1,2636.0,14,5,2,2,2,1,No
+50247,51,Research & Development,Manufacturing Director,No,3,7697.0,27,13,2,1,1,0,No
+50248,34,Research & Development,Research Director,No,1,2613.0,10,5,2,4,1,0,No
+50249,18,Research & Development,Research Director,No,1,4186.0,0,0,2,2,4,0,No
+50250,42,Research & Development,Research Scientist,No,3,7441.0,18,4,3,2,2,0,No
+50251,31,Sales,Manager,No,1,2959.0,10,7,2,2,3,0,No
+50252,37,Sales,Sales Executive,No,2,6607.0,19,6,4,2,4,1,No
+50253,36,Research & Development,Research Scientist,No,2,3884.0,14,4,3,3,2,0,No
+50254,35,Research & Development,Research Director,No,2,6694.0,10,4,3,4,1,0,No
+50255,44,Research & Development,Research Scientist,No,2,5487.0,25,2,3,3,2,0,No
+50256,23,Sales,Manager,No,3,5084.0,5,3,4,1,1,1,No
+50257,32,Sales,Manager,No,2,6633.0,7,5,2,4,1,1,No
+50258,43,Research & Development,Research Director,No,2,6075.0,21,21,4,2,4,0,No
+50259,31,Research & Development,Manufacturing Director,Yes,1,3065.0,12,3,1,1,2,0,Yes
+50260,23,Research & Development,Research Director,No,1,2582.0,0,0,1,1,3,0,Yes
+50261,43,Research & Development,Research Scientist,No,3,5538.0,22,12,4,4,3,0,No
+50262,47,Sales,Manager,No,4,10874.0,27,14,4,2,3,0,No
+50263,37,Research & Development,Research Scientist,Yes,3,6119.0,17,13,1,1,3,0,Yes
+50264,19,Research & Development,Laboratory Technician,No,1,2313.0,0,0,3,4,1,0,No
+50265,43,Sales,Sales Executive,No,1,3691.0,24,15,3,2,3,1,No
+50266,22,Research & Development,Laboratory Technician,No,1,1976.0,2,2,1,4,4,0,No
+50267,40,Research & Development,Manufacturing Director,Yes,1,2567.0,20,17,3,4,1,1,No
+50268,29,Research & Development,Laboratory Technician,No,1,4345.0,11,1,3,1,1,1,No
+50269,27,Research & Development,Research Director,No,1,3868.0,3,1,3,3,3,1,No
+50270,33,Research & Development,Manufacturing Director,No,2,4852.0,15,10,3,3,4,0,No
+50271,35,Research & Development,Manufacturing Director,No,2,5216.0,10,5,4,1,2,1,No
+50272,31,Research & Development,Research Director,Yes,1,3052.0,13,6,1,2,4,0,Yes
+50273,42,Research & Development,Laboratory Technician,No,2,5144.0,22,3,3,2,1,0,No
+50274,33,Research & Development,Laboratory Technician,Yes,1,2764.0,15,9,2,1,3,0,Yes
+50275,46,Sales,Manager,No,2,4678.0,26,19,4,3,4,1,No
+50276,40,Research & Development,Manufacturing Director,No,1,2900.0,18,0,2,2,2,0,No
+50277,31,Research & Development,Manufacturing Director,No,1,2797.0,13,8,4,4,3,0,No
+50278,29,Research & Development,Laboratory Technician,Yes,2,6140.0,7,7,3,4,1,0,No
+50279,22,Sales,Sales Executive,Yes,1,4143.0,0,0,1,3,3,0,Yes
+50280,40,Sales,Sales Executive,Yes,3,6111.0,19,11,4,1,3,0,No
+50281,34,Research & Development,Research Scientist,Yes,2,4125.0,16,16,1,1,4,0,Yes
+50282,18,Research & Development,Research Scientist,No,1,3308.0,0,0,2,1,1,0,Yes
+50283,32,Research & Development,Manufacturing Director,Yes,2,7140.0,13,4,2,2,2,0,Yes
+50284,29,Research & Development,Research Scientist,No,1,2525.0,11,0,3,4,3,0,No
+50285,51,Research & Development,Manufacturing Director,Yes,1,3305.0,30,21,2,1,4,0,Yes
+50286,22,Research & Development,Research Director,Yes,1,3530.0,2,0,3,3,1,1,Yes
+50287,24,Research & Development,Research Director,No,1,3352.0,6,0,3,1,3,0,No
+50288,47,Research & Development,Laboratory Technician,No,2,4788.0,23,4,1,2,4,0,No
+50289,49,Research & Development,Research Scientist,No,4,9740.0,27,26,1,3,3,0,No
+50290,30,Research & Development,Research Director,No,1,3859.0,5,4,2,4,2,0,No
+50291,31,Sales,Sales Executive,No,1,4211.0,10,3,1,4,1,1,No
+50292,43,Research & Development,Manufacturing Director,No,1,3980.0,22,13,4,3,2,0,No
+50293,18,Sales,Manager,Yes,1,4255.0,0,0,2,1,1,1,Yes
+50294,20,Research & Development,Research Scientist,No,1,4876.0,2,1,2,2,1,1,No
+50295,34,Sales,Manager,No,2,6398.0,14,2,3,4,2,0,No
+50296,51,Sales,Sales Executive,No,2,7292.0,27,27,4,1,1,0,No
+50297,33,Human Resources,Human Resources,Yes,1,4546.0,13,11,3,3,1,0,No
+50298,38,Sales,Manager,No,2,4597.0,13,5,3,3,3,1,No
+50299,47,Sales,Manager,No,4,9463.0,27,9,4,4,1,0,No
+50300,56,Research & Development,Laboratory Technician,Yes,4,9339.0,35,29,4,1,1,0,Yes
+50301,32,Sales,Manager,No,1,5178.0,7,3,1,1,3,0,No
+50302,37,Research & Development,Research Director,Yes,2,4330.0,18,7,1,1,4,0,Yes
+50303,53,Research & Development,Research Director,No,5,10952.0,28,11,2,2,3,0,No
+50304,23,Research & Development,Research Scientist,Yes,1,2837.0,5,2,4,3,1,0,Yes
+50305,46,Sales,Sales Executive,No,4,9161.0,26,14,4,1,1,0,No
+50306,28,Research & Development,Manufacturing Director,Yes,1,3257.0,6,0,3,3,3,0,Yes
+50307,38,Research & Development,Research Director,No,2,5632.0,16,8,3,1,3,1,No
+50308,35,Research & Development,Research Director,Yes,2,3931.0,10,4,1,3,2,0,Yes
+50309,28,Research & Development,Laboratory Technician,No,1,4164.0,3,1,3,2,4,0,No
+50310,28,Research & Development,Research Scientist,Yes,1,3635.0,5,2,1,4,4,1,Yes
+50311,39,Research & Development,Research Director,No,1,3587.0,16,7,3,2,3,1,No
+50312,46,Research & Development,Laboratory Technician,Yes,3,8705.0,26,9,1,4,3,0,Yes
+50313,36,Research & Development,Laboratory Technician,Yes,2,4856.0,12,11,1,1,4,0,Yes
+50314,38,Research & Development,Research Director,Yes,3,7258.0,15,8,4,1,1,0,No
+50315,42,Research & Development,Manufacturing Director,Yes,3,7040.0,24,12,4,1,3,0,No
+50316,28,Research & Development,Laboratory Technician,Yes,1,3628.0,4,1,3,2,4,0,Yes
+50317,44,Research & Development,Research Scientist,No,2,7200.0,24,22,3,4,1,0,No
+50318,44,Sales,Sales Representative,No,3,7007.0,23,0,1,1,1,0,No
+50319,60,Research & Development,Research Director,Yes,4,8189.0,39,22,3,4,2,0,No
+50320,34,Sales,Sales Representative,No,1,5134.0,10,1,3,3,2,1,No
+50321,33,Sales,Manager,No,1,3173.0,13,10,3,2,4,0,No
+50322,44,Research & Development,Laboratory Technician,Yes,3,5505.0,23,9,2,2,2,0,Yes
+50323,44,Research & Development,Research Director,No,2,4533.0,26,7,2,4,3,0,No
+50324,32,Research & Development,Research Director,Yes,1,2328.0,12,0,4,3,4,0,Yes
+50325,33,Sales,Sales Representative,Yes,2,3580.0,15,12,2,1,4,0,Yes
+50326,42,Sales,Manager,No,3,6623.0,20,8,4,4,3,0,No
+50327,30,Sales,Sales Representative,No,2,5137.0,5,1,4,2,4,0,No
+50328,33,Research & Development,Laboratory Technician,No,1,4512.0,12,10,4,1,3,0,No
+50329,38,Research & Development,Manufacturing Director,No,2,5766.0,13,0,3,4,1,1,No
+50330,46,Research & Development,Research Director,No,3,7475.0,21,10,1,4,3,0,No
+50331,32,Sales,Manager,Yes,1,2646.0,14,2,1,2,2,0,Yes
+50332,20,Research & Development,Research Scientist,No,1,4246.0,0,0,3,3,2,0,No
+50333,20,Sales,Manager,Yes,1,4702.0,0,0,2,1,3,0,Yes
+50334,26,Sales,Sales Executive,Yes,1,3805.0,5,0,1,4,2,0,Yes
+50335,25,Research & Development,Manufacturing Director,Yes,2,5580.0,1,0,4,2,1,0,No
+50336,36,Research & Development,Manufacturing Director,No,3,5812.0,15,2,4,2,4,1,No
+50337,26,Research & Development,Laboratory Technician,No,1,4399.0,8,8,2,3,3,0,No
+50338,31,Sales,Manager,Yes,2,6803.0,9,4,3,2,3,1,No
+50339,30,Research & Development,Research Director,No,1,3741.0,11,11,2,3,4,0,No
+50340,33,Sales,Sales Executive,No,2,4665.0,13,3,2,3,3,0,No
+50341,49,Research & Development,Research Scientist,No,3,6804.0,27,21,3,2,3,0,No
+50342,43,Human Resources,Human Resources,Yes,2,4822.0,20,1,2,4,4,0,No
+50343,37,Sales,Manager,No,3,6626.0,17,1,4,2,2,0,No
+50344,33,Research & Development,Manufacturing Director,Yes,2,5783.0,12,0,1,4,4,0,Yes
+50345,33,Sales,Manager,No,1,3702.0,15,14,3,2,3,1,No
+50346,40,Sales,Manager,Yes,2,6104.0,19,13,4,3,1,0,No
+50347,42,Sales,Manager,Yes,3,7284.0,20,15,4,3,1,0,No
+50348,29,Research & Development,Research Scientist,No,1,2672.0,7,7,1,4,4,0,No
+50349,37,Research & Development,Research Scientist,Yes,2,4749.0,17,5,1,1,4,1,Yes
+50350,19,Research & Development,Laboratory Technician,Yes,1,2943.0,1,1,3,1,4,0,Yes
+50351,39,Research & Development,Laboratory Technician,No,2,5032.0,17,9,4,4,1,0,No
+50352,44,Research & Development,Manufacturing Director,Yes,2,6815.0,21,11,4,4,4,0,No
+50353,34,Research & Development,Research Scientist,No,1,5209.0,16,11,4,3,4,0,No
+50354,53,Research & Development,Laboratory Technician,No,3,7703.0,31,15,1,2,4,0,No
+50355,29,Research & Development,Research Scientist,Yes,1,3557.0,11,0,3,2,2,0,Yes
+50356,39,Research & Development,Research Scientist,No,1,2225.0,18,1,3,3,3,0,No
+50357,37,Sales,Sales Executive,Yes,3,7148.0,14,7,3,3,2,0,No
+50358,36,Sales,Sales Executive,No,2,4489.0,13,7,4,2,1,1,No
+50359,36,Research & Development,Manufacturing Director,Yes,1,4917.0,13,10,1,1,3,0,Yes
+50360,38,Research & Development,Laboratory Technician,Yes,1,2005.0,14,8,2,1,1,1,Yes
+50361,45,Sales,Sales Representative,No,2,5546.0,26,5,2,2,1,0,No
+50362,49,Research & Development,Laboratory Technician,No,3,6163.0,25,9,4,3,1,0,No
+50363,37,Research & Development,Manufacturing Director,No,1,3441.0,17,7,1,2,2,0,No
+50364,44,Research & Development,Research Director,No,2,5799.0,24,24,2,3,1,1,No
+50365,31,Sales,Sales Representative,No,2,6120.0,7,4,1,2,4,0,No
+50366,44,Research & Development,Manufacturing Director,No,1,3395.0,24,15,1,2,4,0,No
+50367,30,Sales,Manager,No,1,4135.0,12,9,4,3,4,1,No
+50368,47,Sales,Manager,No,2,4604.0,24,9,4,3,2,1,No
+50369,57,Research & Development,Research Scientist,No,3,7171.0,34,33,2,4,1,1,No
+50370,36,Sales,Manager,No,1,4352.0,14,10,3,4,3,1,No
+50371,18,Sales,Sales Executive,No,1,3749.0,0,0,3,2,3,0,No
+50372,32,Research & Development,Laboratory Technician,No,3,6474.0,9,8,4,3,1,0,No
+50373,48,Research & Development,Manufacturing Director,Yes,2,4949.0,29,22,2,2,4,1,No
+50374,42,Research & Development,Laboratory Technician,No,2,6114.0,20,13,4,4,2,1,No
+50375,39,Research & Development,Research Scientist,No,3,5967.0,17,0,2,3,4,0,No
+50376,46,Research & Development,Research Director,No,2,4350.0,22,13,3,4,1,0,No
+50377,41,Sales,Sales Executive,No,3,7491.0,16,2,2,2,2,0,No
+50378,48,Research & Development,Research Scientist,No,3,6555.0,29,18,3,1,2,0,No
+50379,45,Research & Development,Research Director,No,4,7392.0,27,19,2,1,1,0,No
+50380,51,Sales,Manager,No,3,8166.0,29,16,4,3,3,1,No
+50381,40,Research & Development,Research Scientist,Yes,2,4210.0,15,4,3,4,4,0,No
+50382,45,Sales,Manager,No,2,5021.0,26,1,2,3,3,0,No
+50383,34,Sales,Manager,No,1,2892.0,13,9,4,4,2,0,No
+50384,32,Research & Development,Research Scientist,Yes,1,3182.0,11,8,3,2,3,0,Yes
+50385,52,Research & Development,Laboratory Technician,Yes,4,7904.0,32,15,2,4,2,0,No
+50386,39,Human Resources,Human Resources,Yes,2,5843.0,16,12,1,4,2,0,No
+50387,44,Sales,Sales Executive,No,2,5300.0,24,19,4,1,4,0,No
+50388,38,Human Resources,Human Resources,No,1,4335.0,17,9,4,4,3,0,No
+50389,32,Research & Development,Research Scientist,No,2,4652.0,8,0,3,1,2,0,No
+50390,37,Sales,Sales Executive,No,3,8870.0,16,14,4,3,2,1,No
+50391,50,Research & Development,Laboratory Technician,No,2,3486.0,32,15,3,2,4,0,No
+50392,42,Research & Development,Laboratory Technician,No,1,2023.0,17,12,1,2,3,1,No
+50393,22,Research & Development,Research Scientist,No,1,5028.0,2,2,1,4,1,0,No
+50394,35,Sales,Sales Executive,No,3,7377.0,11,4,1,3,4,0,No
+50395,53,Research & Development,Research Scientist,No,4,9007.0,29,18,1,1,3,0,No
+50396,35,Research & Development,Research Director,No,1,3838.0,13,0,3,1,2,0,No
+50397,21,Sales,Sales Executive,No,1,3964.0,3,3,4,1,4,1,No
+50398,54,Research & Development,Research Director,No,2,5470.0,29,1,1,2,4,0,No
+50399,43,Research & Development,Manufacturing Director,No,2,4331.0,20,11,3,1,4,1,No
+50400,36,Research & Development,Research Director,No,3,7686.0,15,5,1,2,2,0,No
+50401,34,Research & Development,Manufacturing Director,Yes,1,4045.0,10,0,2,4,4,0,Yes
+50402,47,Sales,Sales Executive,No,1,4736.0,23,11,4,4,4,1,No
+50403,32,Sales,Sales Representative,Yes,1,5038.0,8,8,4,4,4,1,No
+50404,47,Research & Development,Laboratory Technician,No,3,7247.0,28,4,4,2,3,0,No
+50405,42,Human Resources,Human Resources,Yes,2,4095.0,19,5,2,3,2,0,No
+50406,39,Sales,Sales Executive,No,2,6795.0,19,3,4,4,1,0,No
+50407,38,Research & Development,Laboratory Technician,No,3,6034.0,20,2,4,1,4,0,No
+50408,35,Sales,Sales Executive,Yes,1,3754.0,15,3,2,4,3,0,Yes
+50409,46,Research & Development,Research Scientist,No,3,6719.0,28,16,2,3,4,0,No
+50410,29,Human Resources,Manager,No,1,3062.0,11,9,1,2,3,0,No
+50411,22,Sales,Sales Representative,No,1,4138.0,0,0,4,2,3,1,No
+50412,43,Sales,Sales Representative,Yes,1,3670.0,21,15,1,2,1,1,Yes
+50413,43,Research & Development,Research Director,Yes,2,5662.0,22,17,2,1,2,0,No
+50414,41,Sales,Sales Executive,No,2,4466.0,22,16,2,1,3,0,No
+50415,41,Research & Development,Laboratory Technician,No,3,6793.0,17,6,1,2,1,0,No
+50416,34,Research & Development,Research Director,No,1,2757.0,11,10,4,1,1,0,No
+50417,44,Research & Development,Manufacturing Director,Yes,2,5021.0,22,3,3,3,3,0,No
+50418,37,Sales,Sales Representative,No,1,3343.0,18,13,1,2,1,1,No
+50419,33,Research & Development,Laboratory Technician,No,2,6860.0,15,1,1,2,3,0,No
+50420,34,Sales,Sales Executive,Yes,2,4967.0,16,13,1,1,2,1,Yes
+50421,55,Sales,Sales Executive,No,4,6787.0,37,3,4,4,2,0,No
+50422,21,Research & Development,Research Scientist,No,1,4706.0,0,0,2,3,1,0,No
+50423,41,Research & Development,Research Director,No,3,7354.0,21,4,3,2,2,0,No
+50424,22,Research & Development,Manufacturing Director,No,1,3332.0,0,0,1,3,3,1,No
+50425,36,Research & Development,Laboratory Technician,No,1,3057.0,11,4,1,2,3,0,Yes
+50426,33,Sales,Manager,No,2,4348.0,8,6,3,1,2,0,No
+50427,18,Research & Development,Research Scientist,Yes,1,5194.0,0,0,1,3,1,0,Yes
+50428,41,Sales,Sales Executive,Yes,2,5247.0,20,0,3,4,4,1,No
+50429,34,Research & Development,Laboratory Technician,Yes,1,1886.0,13,3,4,3,4,0,Yes
+50430,18,Sales,Manager,No,1,3745.0,0,0,2,3,4,0,No
+50431,45,Sales,Sales Representative,No,1,4536.0,21,7,3,1,2,1,No
+50432,50,Sales,Manager,Yes,3,7091.0,28,21,4,3,3,0,No
+50433,50,Sales,Sales Executive,Yes,3,6139.0,30,29,4,3,1,1,No
+50434,40,Sales,Manager,No,2,4308.0,18,11,1,2,4,1,No
+50435,37,Research & Development,Research Scientist,No,1,2624.0,14,7,1,1,1,0,No
+50436,49,Research & Development,Research Scientist,No,2,6569.0,31,10,4,4,2,0,No
+50437,52,Research & Development,Manufacturing Director,No,3,6886.0,29,24,4,2,4,1,No
+50438,47,Research & Development,Research Scientist,No,3,5439.0,23,2,2,2,3,1,No
+50439,29,Sales,Manager,No,3,7296.0,6,0,3,3,4,0,No
+50440,39,Research & Development,Research Director,No,1,3577.0,17,3,3,2,2,0,No
+50441,41,Sales,Sales Representative,No,2,4796.0,23,6,3,3,1,0,No
+50442,21,Research & Development,Laboratory Technician,No,1,2532.0,0,0,4,3,1,0,No
+50443,41,Sales,Sales Executive,No,3,5992.0,17,8,2,2,1,0,No
+50444,57,Research & Development,Manufacturing Director,Yes,2,6178.0,36,35,4,1,1,0,No
+50445,43,Research & Development,Manufacturing Director,No,2,5423.0,21,14,1,1,2,0,No
+50446,50,Sales,Manager,No,2,5631.0,28,11,1,4,1,1,No
+50447,39,Human Resources,Manager,No,2,5420.0,21,4,4,3,1,0,No
+50448,36,Research & Development,Research Scientist,No,2,5495.0,16,11,1,2,2,0,No
+50449,40,Research & Development,Research Scientist,No,2,4778.0,16,4,4,2,3,0,No
+50450,30,Research & Development,Research Director,No,1,3265.0,5,5,2,3,3,0,No
+50451,28,Research & Development,Research Scientist,No,1,4498.0,8,4,2,4,1,0,No
+50452,48,Sales,Manager,No,3,8223.0,27,15,1,4,4,1,No
+50453,49,Sales,Sales Executive,No,3,5850.0,24,22,4,3,3,1,No
+50454,28,Research & Development,Manufacturing Director,Yes,2,5013.0,9,3,2,2,2,0,Yes
+50455,46,Research & Development,Research Director,No,2,5955.0,26,12,1,4,2,1,No
+50456,36,Research & Development,Laboratory Technician,No,1,5144.0,18,10,2,4,4,0,No
+50457,40,Human Resources,Human Resources,No,2,6804.0,21,5,1,2,2,0,No
+50458,41,Research & Development,Research Director,No,3,6234.0,18,1,4,4,1,0,No
+50459,46,Sales,Sales Executive,No,2,6348.0,26,7,1,4,2,0,No
+50460,38,Research & Development,Manufacturing Director,No,2,5253.0,13,1,2,4,1,0,No
+50461,50,Research & Development,Research Director,No,2,6140.0,25,17,2,1,1,0,No
+50462,40,Research & Development,Manufacturing Director,No,3,7659.0,15,0,1,1,2,0,No
+50463,43,Sales,Sales Executive,No,1,2312.0,20,6,1,2,1,0,No
+50464,30,Research & Development,Research Director,Yes,1,3945.0,7,7,3,4,2,0,No
+50465,56,Research & Development,Research Scientist,No,4,9605.0,34,19,2,1,1,0,No
+50466,41,Sales,Manager,No,1,3432.0,16,11,1,1,3,1,No
+50467,43,Research & Development,Manufacturing Director,No,3,6728.0,25,17,1,1,1,0,No
+50468,23,Sales,Sales Executive,No,1,2036.0,0,0,4,1,1,0,No
+50469,30,Research & Development,Laboratory Technician,No,2,5815.0,11,3,3,4,4,0,No
+50470,48,Research & Development,Research Scientist,No,3,7138.0,28,18,3,3,1,0,No
+50471,40,Research & Development,Research Director,No,2,4370.0,20,4,4,3,2,0,No
+50472,20,Research & Development,Research Scientist,No,1,3157.0,0,0,1,2,3,0,Yes
+50473,46,Research & Development,Laboratory Technician,No,2,5339.0,22,14,3,3,2,0,No
+50474,32,Research & Development,Manufacturing Director,Yes,1,2947.0,14,10,4,4,2,0,No
+50475,50,Research & Development,Manufacturing Director,No,3,6952.0,28,25,1,3,1,0,No
+50476,36,Research & Development,Manufacturing Director,No,2,3625.0,17,16,3,4,2,0,No
+50477,39,Research & Development,Manufacturing Director,No,3,8164.0,21,0,4,3,4,0,No
+50478,48,Research & Development,Manufacturing Director,No,3,6964.0,27,8,3,2,3,0,No
+50479,29,Research & Development,Research Director,No,2,4211.0,7,4,1,3,4,0,No
+50480,28,Research & Development,Laboratory Technician,No,1,1236.0,9,3,3,4,3,1,No
+50481,35,Research & Development,Research Director,Yes,1,4376.0,14,9,4,4,4,1,No
+50482,44,Research & Development,Research Director,No,3,7452.0,19,17,1,2,2,0,No
+50483,25,Research & Development,Research Director,No,1,3640.0,5,1,3,3,3,0,No
+50484,22,Research & Development,Research Director,Yes,1,4227.0,0,0,3,4,3,0,Yes
+50485,44,Research & Development,Research Director,Yes,1,4225.0,20,18,2,3,4,0,Yes
+50486,32,Research & Development,Research Scientist,No,1,3625.0,12,11,1,3,3,1,No
+50487,33,Research & Development,Research Director,No,2,4971.0,11,10,1,2,2,0,No
+50488,20,Research & Development,Manufacturing Director,No,1,3075.0,0,0,4,4,1,0,No
+50489,31,Research & Development,Laboratory Technician,Yes,1,3829.0,10,0,4,4,4,0,Yes
+50490,37,Research & Development,Manufacturing Director,No,2,6457.0,16,4,2,1,2,0,No
+50491,45,Sales,Sales Executive,No,2,5107.0,25,3,4,1,4,0,No
+50492,30,Research & Development,Manufacturing Director,No,1,4779.0,11,1,4,1,3,0,No
+50493,52,Sales,Manager,No,4,9036.0,34,1,3,2,1,0,No
+50494,31,Research & Development,Research Scientist,Yes,2,5543.0,11,5,3,1,3,0,No
+50495,31,Sales,Sales Representative,No,2,7365.0,7,0,4,4,2,1,No
+50496,51,Research & Development,Research Director,Yes,4,10187.0,32,9,3,4,1,0,No
+50497,39,Research & Development,Laboratory Technician,No,1,4961.0,20,20,4,1,2,0,No
+50498,32,Research & Development,Research Director,Yes,1,2732.0,12,11,4,4,3,0,No
+50499,36,Research & Development,Research Scientist,No,1,5423.0,14,14,1,1,1,1,No
+50500,49,Research & Development,Manufacturing Director,Yes,2,5126.0,30,1,3,4,3,0,No
+50501,50,Sales,Manager,No,1,3245.0,31,21,3,2,4,0,No
+50502,30,Sales,Manager,No,1,1507.0,12,8,4,1,1,1,No
+50503,37,Sales,Sales Executive,No,1,3744.0,17,2,2,2,1,1,No
+50504,38,Research & Development,Research Director,Yes,2,4225.0,19,18,4,4,1,0,No
+50505,28,Research & Development,Laboratory Technician,Yes,1,3817.0,4,2,2,4,3,0,Yes
+50506,36,Sales,Sales Representative,No,1,2405.0,11,11,2,1,4,0,Yes
+50507,37,Research & Development,Laboratory Technician,No,2,6818.0,17,2,1,4,4,0,No
+50508,47,Sales,Sales Representative,No,3,7446.0,29,19,2,2,1,1,No
+50509,48,Research & Development,Manufacturing Director,No,2,7252.0,30,4,4,2,2,1,No
+50510,34,Research & Development,Laboratory Technician,No,1,2529.0,14,14,3,1,1,0,No
+50511,35,Research & Development,Research Scientist,No,1,4844.0,14,9,3,4,2,0,No
+50512,43,Sales,Manager,No,1,1828.0,21,1,4,4,2,0,No
+50513,32,Research & Development,Research Scientist,No,1,3637.0,12,2,2,3,3,1,No
+50514,42,Research & Development,Research Scientist,No,2,4632.0,22,8,3,3,4,0,No
+50515,36,Research & Development,Manufacturing Director,No,1,3047.0,16,0,2,4,4,0,No
+50516,28,Research & Development,Laboratory Technician,No,1,2985.0,6,0,4,1,1,1,No
+50517,28,Research & Development,Manufacturing Director,No,1,2627.0,5,5,2,1,1,0,No
+50518,50,Sales,Manager,No,3,5816.0,32,32,4,1,2,1,No
+50519,36,Research & Development,Research Scientist,No,2,4802.0,15,8,3,2,2,0,No
+50520,52,Sales,Sales Executive,Yes,3,7054.0,29,27,4,2,2,1,No
+50521,32,Sales,Sales Representative,No,1,4497.0,9,6,4,1,3,0,No
+50522,40,Research & Development,Research Director,No,1,3716.0,18,0,4,3,3,0,No
+50523,59,Research & Development,Manufacturing Director,No,3,8000.0,37,27,2,1,4,0,No
+50524,27,Research & Development,Laboratory Technician,No,1,2120.0,4,0,3,4,3,1,No
+50525,20,Research & Development,Manufacturing Director,Yes,1,3060.0,0,0,2,3,2,0,Yes
+50526,49,Research & Development,Research Director,Yes,3,7590.0,27,22,1,4,1,0,No
+50527,30,Human Resources,Human Resources,Yes,2,5509.0,10,4,3,1,2,0,Yes
+50528,37,Human Resources,Manager,No,2,4425.0,16,2,2,4,4,1,No
+50529,32,Sales,Manager,Yes,1,4291.0,14,3,2,3,4,1,Yes
+50530,39,Research & Development,Laboratory Technician,No,2,4722.0,19,13,1,4,2,0,No
+50531,28,Sales,Sales Executive,No,1,2750.0,9,8,3,3,1,0,No
+50532,35,Sales,Manager,No,1,3888.0,16,9,3,3,1,0,No
+50533,41,Research & Development,Research Scientist,Yes,3,6956.0,20,3,1,1,1,0,Yes
+50534,28,Research & Development,Laboratory Technician,No,1,2979.0,6,6,3,3,3,1,No
+50535,31,Research & Development,Research Scientist,Yes,1,2949.0,6,5,1,2,3,0,Yes
+50536,34,Research & Development,Manufacturing Director,No,2,4237.0,16,6,1,4,3,0,No
+50537,24,Research & Development,Laboratory Technician,Yes,1,3094.0,0,0,2,3,1,0,Yes
+50538,33,Research & Development,Manufacturing Director,Yes,1,4440.0,13,7,2,1,2,0,Yes
+50539,38,Research & Development,Research Director,Yes,2,5420.0,15,15,4,4,1,1,No
+50540,33,Sales,Manager,No,1,4313.0,10,4,1,1,2,0,No
+50541,35,Human Resources,Manager,Yes,2,5664.0,10,0,2,2,3,0,Yes
+50542,37,Research & Development,Research Scientist,No,2,4649.0,19,2,3,1,2,0,No
+50543,31,Sales,Sales Representative,No,1,1966.0,6,4,1,4,3,1,No
+50544,43,Human Resources,Human Resources,No,2,4366.0,25,25,4,1,2,0,No
+50545,50,Research & Development,Research Director,Yes,2,4596.0,25,19,3,4,3,0,No
+50546,33,Research & Development,Manufacturing Director,Yes,1,2776.0,10,6,4,1,2,0,Yes
+50547,41,Research & Development,Laboratory Technician,No,1,4333.0,20,6,4,3,2,0,No
+50548,35,Research & Development,Manufacturing Director,Yes,2,6074.0,14,6,1,1,1,0,Yes
+50549,40,Sales,Sales Representative,No,1,5441.0,22,0,2,2,3,1,No
+50550,51,Research & Development,Laboratory Technician,No,3,6263.0,27,10,3,3,4,0,No
+50551,42,Research & Development,Laboratory Technician,No,2,6638.0,19,12,1,3,3,0,No
+50552,21,Research & Development,Research Scientist,Yes,1,4882.0,0,0,2,4,3,0,Yes
+50553,41,Research & Development,Laboratory Technician,No,1,3241.0,18,17,3,4,4,0,No
+50554,48,Sales,Sales Representative,Yes,2,5626.0,23,22,4,3,1,0,No
+50555,35,Research & Development,Research Director,No,3,8067.0,10,9,2,2,4,0,No
+50556,46,Research & Development,Research Director,Yes,4,8647.0,25,0,4,2,1,0,No
+50557,31,Research & Development,Research Director,No,2,5077.0,8,7,3,4,3,1,No
+50558,24,Research & Development,Research Scientist,No,1,2885.0,4,1,1,3,4,0,No
+50559,38,Research & Development,Research Director,Yes,1,1326.0,14,9,2,4,4,0,Yes
+50560,21,Research & Development,Laboratory Technician,Yes,1,3513.0,0,0,4,2,2,1,Yes
+50561,35,Research & Development,Laboratory Technician,No,1,2811.0,14,14,1,2,4,0,Yes
+50562,49,Research & Development,Research Director,Yes,3,5982.0,26,23,1,4,3,0,No
+50563,20,Sales,Manager,Yes,1,3830.0,0,0,2,3,1,0,Yes
+50564,25,Research & Development,Research Scientist,No,1,2144.0,3,2,4,1,1,0,No
+50565,28,Research & Development,Laboratory Technician,No,1,4175.0,7,2,3,3,4,0,No
+50566,36,Sales,Manager,Yes,2,5635.0,16,8,1,1,4,0,Yes
+50567,34,Sales,Sales Representative,No,2,4840.0,9,7,2,4,4,1,No
+50568,50,Research & Development,Laboratory Technician,Yes,2,5143.0,32,16,4,1,2,0,No
+50569,46,Research & Development,Manufacturing Director,No,1,2379.0,22,9,1,4,2,0,No
+50570,41,Research & Development,Research Director,Yes,3,7625.0,22,9,3,4,4,1,No
+50571,38,Research & Development,Research Scientist,No,4,8869.0,19,11,2,1,1,0,No
+50572,41,Sales,Manager,No,2,5436.0,22,0,4,3,4,1,No
+50573,29,Research & Development,Manufacturing Director,Yes,1,3902.0,11,11,4,1,3,0,Yes
+50574,45,Sales,Manager,Yes,2,4622.0,27,2,4,2,3,1,No
+50575,27,Sales,Sales Executive,No,1,2083.0,3,3,1,2,2,0,No
+50576,45,Research & Development,Research Scientist,No,3,7812.0,20,0,2,3,4,0,No
+50577,48,Sales,Sales Representative,No,2,5820.0,26,13,3,4,3,1,No
+50578,39,Research & Development,Manufacturing Director,No,2,4718.0,21,9,2,2,1,0,No
+50579,35,Sales,Sales Representative,No,2,5568.0,11,6,3,2,3,1,No
+50580,41,Research & Development,Research Director,No,3,8082.0,19,8,3,1,4,0,No
+50581,18,Research & Development,Research Director,No,1,4475.0,0,0,2,4,1,0,No
+50582,40,Research & Development,Research Scientist,No,1,2942.0,15,14,1,2,3,0,No
+50583,36,Research & Development,Research Director,No,2,3860.0,15,0,4,2,1,0,No
+50584,37,Research & Development,Research Scientist,Yes,2,4015.0,17,17,4,1,3,0,No
+50585,43,Sales,Sales Representative,No,2,4919.0,19,13,4,2,4,0,No
+50586,36,Research & Development,Research Scientist,Yes,2,6516.0,14,11,2,3,2,0,No
+50587,27,Research & Development,Laboratory Technician,Yes,1,2794.0,4,0,2,4,1,0,Yes
+50588,36,Research & Development,Research Director,No,1,2913.0,13,0,2,2,1,1,No
+50589,38,Research & Development,Laboratory Technician,No,2,4645.0,14,5,1,3,3,0,No
+50590,38,Research & Development,Manufacturing Director,Yes,2,4721.0,18,6,1,4,4,0,Yes
+50591,38,Sales,Sales Executive,Yes,2,5190.0,20,16,2,2,2,0,No
+50592,46,Research & Development,Manufacturing Director,No,4,7548.0,25,23,4,2,4,1,No
+50593,27,Research & Development,Laboratory Technician,No,1,4426.0,4,2,1,1,2,0,Yes
+50594,39,Research & Development,Manufacturing Director,Yes,1,3320.0,15,12,3,4,1,0,No
+50595,49,Research & Development,Research Director,Yes,3,9181.0,29,1,3,1,3,1,No
+50596,21,Research & Development,Manufacturing Director,No,1,2394.0,0,0,2,1,4,0,No
+50597,39,Sales,Sales Executive,No,2,6631.0,15,11,4,1,2,0,No
+50598,32,Research & Development,Laboratory Technician,Yes,1,4702.0,8,0,1,3,4,0,Yes
+50599,34,Human Resources,Human Resources,No,1,3079.0,10,7,4,2,3,0,No
+50600,29,Research & Development,Laboratory Technician,No,1,3094.0,4,1,3,3,2,1,No
+50601,35,Research & Development,Research Scientist,Yes,2,4371.0,12,5,2,3,3,1,No
+50602,54,Sales,Sales Representative,No,4,7881.0,34,9,4,1,2,0,No
+50603,26,Sales,Sales Executive,No,1,3449.0,5,2,2,2,1,1,No
+50604,26,Sales,Sales Executive,No,1,3469.0,3,3,4,1,4,1,No
+50605,25,Human Resources,Human Resources,No,1,2008.0,6,5,1,1,2,0,No
+50606,53,Sales,Manager,No,3,9014.0,31,10,1,2,3,0,No
+50607,33,Sales,Manager,No,1,3216.0,11,3,3,2,3,1,No
+50608,37,Research & Development,Research Director,No,2,5259.0,14,7,4,1,1,0,No
+50609,33,Sales,Sales Executive,No,1,2886.0,12,8,1,2,3,0,No
+50610,29,Research & Development,Laboratory Technician,No,2,4960.0,6,1,4,2,2,0,No
+50611,35,Research & Development,Research Director,No,2,4878.0,17,13,4,4,3,0,No
+50612,59,Sales,Sales Representative,No,4,8697.0,36,35,2,3,2,0,No
+50613,50,Human Resources,Human Resources,Yes,3,6937.0,26,22,4,2,4,0,No
+50614,29,Human Resources,Human Resources,Yes,1,4174.0,4,2,4,2,1,0,No
+50615,43,Research & Development,Laboratory Technician,No,1,3654.0,18,6,1,1,1,0,Yes
+50616,30,Sales,Manager,No,1,4084.0,10,3,4,2,2,0,No
+50617,21,Sales,Sales Executive,Yes,1,3441.0,3,2,3,3,1,1,Yes
+50618,46,Research & Development,Research Director,No,3,7158.0,23,10,1,1,1,0,No
+50619,47,Research & Development,Manufacturing Director,Yes,3,6733.0,29,3,3,4,3,0,No
+50620,46,Research & Development,Research Director,No,3,7853.0,26,18,3,3,4,0,No
+50621,33,Sales,Manager,No,1,3740.0,10,1,4,4,3,1,No
+50622,35,Research & Development,Laboratory Technician,Yes,1,3308.0,13,13,4,2,2,0,Yes
+50623,44,Human Resources,Manager,No,3,6781.0,22,9,2,4,4,0,No
+50624,41,Research & Development,Research Scientist,Yes,3,6852.0,17,6,2,2,2,0,No
+50625,33,Human Resources,Human Resources,No,1,3477.0,14,0,1,4,1,0,No
+50626,22,Research & Development,Research Scientist,Yes,1,3399.0,0,0,1,3,4,0,Yes
+50627,38,Sales,Sales Executive,No,2,4697.0,16,2,3,3,3,0,No
+50628,47,Research & Development,Research Scientist,No,2,5888.0,26,25,4,1,2,0,No
+50629,26,Research & Development,Research Scientist,Yes,1,4195.0,5,3,1,4,3,0,Yes
+50630,43,Sales,Sales Executive,Yes,4,10305.0,21,19,3,1,3,1,No
+50631,40,Sales,Sales Representative,Yes,2,4657.0,18,18,3,1,1,1,Yes
+50632,44,Sales,Sales Executive,No,3,7550.0,24,1,1,2,1,0,No
+50633,45,Research & Development,Research Scientist,No,1,1732.0,26,10,1,4,3,1,No
+50634,31,Research & Development,Research Director,No,1,4196.0,12,10,2,4,1,0,No
+50635,22,Research & Development,Research Scientist,No,1,2139.0,2,1,3,4,3,0,No
+50636,32,Research & Development,Research Scientist,No,1,2564.0,12,6,2,3,2,0,No
+50637,45,Sales,Sales Executive,No,1,3749.0,23,13,4,4,1,0,No
+50638,32,Sales,Sales Executive,No,2,4641.0,7,5,2,2,3,1,No
+50639,31,Sales,Sales Representative,No,3,6267.0,13,13,1,2,2,1,No
+50640,21,Sales,Manager,No,1,3014.0,1,1,1,1,2,0,Yes
+50641,53,Sales,Manager,No,4,9357.0,35,22,2,4,1,1,No
+50642,44,Sales,Sales Representative,No,1,2610.0,19,11,2,2,3,1,No
+50643,44,Research & Development,Research Scientist,Yes,3,6901.0,21,7,3,1,4,0,No
+50644,46,Research & Development,Research Director,Yes,2,4859.0,27,3,2,2,3,0,Yes
+50645,42,Research & Development,Research Scientist,No,1,4188.0,21,15,1,3,1,1,No
+50646,35,Sales,Sales Representative,No,2,5963.0,12,0,1,2,4,0,No
+50647,36,Research & Development,Laboratory Technician,No,2,3548.0,11,8,3,2,1,0,No
+50648,33,Research & Development,Research Director,No,2,6141.0,11,5,2,2,2,0,No
+50649,61,Sales,Sales Executive,No,4,8150.0,41,33,3,3,1,1,No
+50650,42,Research & Development,Manufacturing Director,No,2,5413.0,19,18,4,3,4,0,No
+50651,33,Research & Development,Laboratory Technician,Yes,1,2605.0,10,6,2,3,1,0,Yes
+50652,41,Sales,Sales Representative,No,2,5534.0,18,10,3,1,3,0,No
+50653,28,Sales,Manager,Yes,2,7496.0,10,5,4,2,1,0,No
+50654,51,Research & Development,Manufacturing Director,No,4,8814.0,28,10,1,3,1,0,No
+50655,31,Sales,Sales Representative,No,1,3036.0,13,1,3,1,3,0,No
+50656,42,Research & Development,Laboratory Technician,No,1,3241.0,17,0,2,1,4,0,Yes
+50657,47,Sales,Manager,No,2,3878.0,22,16,3,2,1,1,No
+50658,40,Research & Development,Laboratory Technician,No,1,4754.0,18,17,3,3,1,0,No
+50659,38,Research & Development,Research Scientist,No,2,5482.0,15,0,1,3,2,1,No
+50660,37,Research & Development,Laboratory Technician,No,2,4256.0,19,6,1,1,4,0,No
+50661,36,Research & Development,Research Scientist,No,1,2535.0,12,7,1,3,1,0,No
+50662,32,Sales,Sales Executive,Yes,2,5214.0,12,9,1,1,1,1,Yes
+50663,33,Research & Development,Laboratory Technician,Yes,2,6039.0,13,10,1,3,2,0,Yes
+50664,50,Research & Development,Research Director,No,2,4164.0,27,19,3,3,2,1,No
+50665,36,Research & Development,Research Director,Yes,1,4452.0,11,1,4,1,1,0,Yes
+50666,30,Sales,Sales Executive,No,1,3368.0,9,2,2,2,3,1,No
+50667,32,Sales,Sales Representative,No,1,2613.0,10,5,4,4,3,1,No
+50668,47,Human Resources,Human Resources,No,2,4779.0,25,1,3,2,1,0,No
+50669,43,Research & Development,Research Director,Yes,2,6774.0,23,8,4,3,3,0,No
+50670,42,Research & Development,Research Scientist,No,2,3951.0,20,8,3,3,1,0,No
+50671,35,Research & Development,Research Director,Yes,2,4541.0,10,10,1,1,3,0,Yes
+50672,42,Research & Development,Research Director,No,2,6057.0,21,6,3,4,2,0,No
+50673,31,Human Resources,Manager,No,1,3645.0,7,7,3,2,1,1,No
+50674,35,Sales,Sales Executive,Yes,2,4488.0,11,8,3,4,1,1,No
+50675,46,Research & Development,Research Director,Yes,2,6068.0,22,15,4,2,4,0,No
+50676,45,Research & Development,Manufacturing Director,Yes,3,7861.0,22,18,1,3,3,1,No
+50677,28,Sales,Sales Representative,No,1,3748.0,3,3,3,2,3,1,No
+50678,29,Research & Development,Research Director,No,1,2899.0,6,1,4,4,1,0,No
+50679,38,Research & Development,Research Director,Yes,2,4788.0,13,5,1,1,1,0,Yes
+50680,53,Research & Development,Research Scientist,Yes,2,5456.0,30,16,2,4,1,0,No
+50681,20,Research & Development,Research Director,No,1,2269.0,0,0,4,1,2,0,No
+50682,40,Research & Development,Research Director,Yes,2,6395.0,15,15,1,4,2,0,No
+50683,25,Research & Development,Research Scientist,No,1,4980.0,0,0,1,1,4,0,Yes
+50684,31,Research & Development,Laboratory Technician,No,1,3238.0,9,0,4,1,4,0,No
+50685,34,Research & Development,Research Director,No,1,3770.0,11,5,1,1,2,0,No
+50686,33,Research & Development,Research Scientist,No,1,4517.0,8,1,3,3,2,0,No
+50687,32,Research & Development,Laboratory Technician,No,1,5210.0,11,2,4,2,2,0,No
+50688,37,Human Resources,Manager,No,2,6601.0,19,15,2,3,3,0,No
+50689,32,Sales,Sales Representative,Yes,2,3638.0,7,1,2,4,3,0,Yes
+50690,24,Research & Development,Research Director,Yes,1,3166.0,1,1,2,1,3,0,Yes
+50691,44,Research & Development,Research Scientist,No,4,9151.0,23,23,2,3,1,0,No
+50692,44,Sales,Sales Executive,Yes,2,4755.0,21,17,2,3,2,1,No
+50693,45,Research & Development,Research Director,No,2,6804.0,27,4,3,2,4,0,No
+50694,23,Research & Development,Manufacturing Director,No,1,4916.0,2,0,4,4,2,0,No
+50695,40,Sales,Sales Executive,No,1,2716.0,20,9,4,3,1,1,No
+50696,43,Research & Development,Laboratory Technician,No,3,6804.0,23,13,4,1,1,0,No
+50697,28,Sales,Sales Representative,No,2,4525.0,3,3,1,3,1,1,No
+50698,37,Research & Development,Manufacturing Director,No,2,5024.0,15,6,2,2,4,1,No
+50699,36,Sales,Sales Executive,Yes,1,3247.0,17,3,4,1,1,0,Yes
+50700,54,Research & Development,Manufacturing Director,No,4,9559.0,34,34,3,4,3,1,No
+50701,54,Research & Development,Laboratory Technician,No,3,6150.0,35,32,2,1,2,0,No
+50702,22,Research & Development,Manufacturing Director,No,1,1200.0,0,0,2,1,1,0,No
+50703,59,Research & Development,Research Scientist,No,5,9006.0,39,26,1,1,4,0,No
+50704,29,Sales,Sales Representative,Yes,1,2525.0,9,6,2,4,3,0,Yes
+50705,46,Research & Development,Research Director,No,4,8110.0,26,25,2,3,4,1,No
+50706,46,Research & Development,Research Scientist,No,3,7118.0,27,13,2,4,4,0,No
+50707,28,Sales,Sales Executive,Yes,1,2478.0,4,0,3,2,4,1,Yes
+50708,41,Sales,Manager,No,1,2360.0,19,12,2,1,3,1,No
+50709,36,Research & Development,Manufacturing Director,Yes,1,2613.0,15,7,1,2,3,0,Yes
+50710,42,Research & Development,Manufacturing Director,Yes,2,4196.0,21,17,4,1,3,0,No
+50711,39,Human Resources,Manager,No,3,6451.0,16,13,2,3,2,0,No
+50712,48,Sales,Manager,Yes,3,6412.0,30,14,2,2,1,1,No
+50713,38,Sales,Sales Representative,No,2,5820.0,13,5,3,4,2,0,No
+50714,35,Sales,Sales Executive,Yes,1,2559.0,13,5,3,2,2,1,Yes
+50715,47,Sales,Manager,No,3,6628.0,28,18,3,2,1,0,No
+50716,42,Research & Development,Laboratory Technician,Yes,3,6459.0,20,13,1,4,4,1,Yes
+50717,44,Research & Development,Research Scientist,No,3,7678.0,20,10,3,3,4,0,No
+50718,31,Research & Development,Laboratory Technician,Yes,1,3311.0,12,6,1,1,2,0,Yes
+50719,28,Sales,Sales Representative,No,1,4396.0,6,6,4,2,2,0,No
+50720,32,Human Resources,Human Resources,No,2,4163.0,10,2,2,2,4,0,No
+50721,31,Research & Development,Research Director,Yes,1,3406.0,7,1,2,3,2,1,Yes
+50722,44,Research & Development,Research Scientist,No,2,4682.0,22,18,2,3,3,1,No
+50723,46,Research & Development,Laboratory Technician,No,4,7597.0,23,22,2,3,3,1,No
+50724,36,Human Resources,Human Resources,No,1,3389.0,12,7,3,4,2,0,No
+50725,50,Research & Development,Research Director,No,2,6760.0,25,10,2,3,4,0,No
+50726,49,Research & Development,Manufacturing Director,Yes,3,6182.0,29,10,1,2,1,0,Yes
+50727,39,Research & Development,Research Director,No,1,3335.0,16,7,3,1,1,1,No
+50728,30,Research & Development,Research Scientist,No,2,4019.0,11,0,2,3,3,0,No
+50729,51,Research & Development,Research Director,Yes,3,5637.0,27,14,1,2,3,0,Yes
+50730,36,Research & Development,Research Director,No,2,4491.0,11,3,4,2,4,0,No
+50731,38,Research & Development,Laboratory Technician,No,2,4795.0,18,5,2,4,3,0,No
+50732,34,Research & Development,Manufacturing Director,No,1,3085.0,12,7,3,4,1,0,No
+50733,29,Research & Development,Research Scientist,No,3,6747.0,5,5,1,2,4,0,No
+50734,24,Research & Development,Research Director,No,1,1967.0,6,1,2,3,2,1,No
+50735,43,Research & Development,Research Director,Yes,2,4637.0,20,19,2,4,1,0,No
+50736,30,Sales,Sales Representative,No,1,3902.0,6,3,1,1,3,1,Yes
+50737,65,Research & Development,Manufacturing Director,Yes,3,5728.0,41,40,4,2,1,0,No
+50738,27,Research & Development,Laboratory Technician,No,2,4880.0,8,3,2,3,2,0,No
+50739,26,Research & Development,Research Scientist,No,1,3714.0,2,2,3,2,2,0,No
+50740,42,Research & Development,Manufacturing Director,No,1,2746.0,18,12,3,4,1,0,No
+50741,51,Research & Development,Manufacturing Director,Yes,3,7257.0,33,22,2,2,4,0,No
+50742,38,Research & Development,Research Director,Yes,3,5581.0,15,9,3,1,3,0,No
+50743,42,Sales,Manager,No,2,6000.0,19,9,3,2,4,0,No
+50744,20,Research & Development,Laboratory Technician,No,1,3779.0,0,0,1,2,2,0,Yes
+50745,31,Research & Development,Research Director,No,1,3500.0,13,7,3,4,3,0,No
+50746,27,Research & Development,Manufacturing Director,No,1,4462.0,2,2,1,1,4,0,Yes
+50747,20,Research & Development,Manufacturing Director,No,1,3154.0,0,0,2,1,1,0,No
+50748,38,Research & Development,Manufacturing Director,Yes,1,2894.0,18,15,2,1,4,0,Yes
+50749,18,Sales,Manager,No,1,4685.0,0,0,2,3,1,1,No
+50750,25,Sales,Manager,Yes,1,5107.0,1,0,1,4,4,1,Yes
+50751,32,Research & Development,Research Scientist,No,2,4576.0,7,5,3,3,3,0,No
+50752,30,Research & Development,Research Scientist,Yes,1,3348.0,10,9,2,4,3,0,Yes
+50753,41,Research & Development,Laboratory Technician,Yes,2,6141.0,16,12,1,4,1,0,Yes
+50754,40,Research & Development,Manufacturing Director,No,2,5130.0,17,8,1,3,3,0,No
+50755,45,Sales,Manager,No,3,7485.0,26,9,3,3,3,1,No
+50756,44,Research & Development,Laboratory Technician,Yes,1,4152.0,22,15,3,1,4,0,Yes
+50757,47,Research & Development,Manufacturing Director,Yes,1,2944.0,23,15,3,4,4,0,No
+50758,37,Sales,Manager,No,1,3827.0,19,7,3,4,2,0,No
+50759,40,Research & Development,Laboratory Technician,No,2,5194.0,22,9,4,4,2,0,No
+50760,42,Research & Development,Laboratory Technician,Yes,2,4105.0,24,9,4,4,2,0,No
+50761,38,Sales,Sales Representative,No,2,4309.0,16,0,4,2,2,0,No
+50762,33,Research & Development,Laboratory Technician,Yes,2,4613.0,15,0,4,1,1,0,Yes
+50763,34,Research & Development,Research Director,No,2,6036.0,9,0,4,4,1,0,No
+50764,30,Research & Development,Research Director,No,1,4315.0,11,5,2,2,4,0,No
+50765,41,Sales,Sales Representative,Yes,2,5875.0,23,12,3,4,2,1,No
+50766,36,Research & Development,Laboratory Technician,Yes,1,3846.0,16,6,3,3,2,0,Yes
+50767,31,Research & Development,Manufacturing Director,Yes,1,3822.0,7,7,1,2,3,0,Yes
+50768,31,Research & Development,Research Scientist,Yes,1,3700.0,6,1,3,2,3,0,Yes
+50769,26,Research & Development,Laboratory Technician,No,1,3817.0,6,2,3,3,2,1,No
+50770,46,Research & Development,Research Scientist,No,4,9128.0,24,6,3,2,4,1,No
+50771,38,Research & Development,Research Scientist,No,2,3936.0,14,4,4,2,1,0,No
+50772,29,Research & Development,Research Scientist,No,1,2739.0,5,3,3,1,2,1,No
+50773,44,Research & Development,Manufacturing Director,No,4,7774.0,25,8,4,3,1,1,No
+50774,32,Sales,Sales Executive,No,1,4446.0,8,2,4,1,3,0,No
+50775,24,Research & Development,Manufacturing Director,No,1,4939.0,0,0,4,1,1,0,No
+50776,46,Sales,Sales Representative,Yes,2,3248.0,23,16,2,1,4,1,Yes
+50777,32,Research & Development,Laboratory Technician,No,2,6608.0,10,9,1,3,3,0,No
+50778,33,Research & Development,Research Director,No,1,3528.0,12,2,2,1,1,0,No
+50779,37,Sales,Sales Representative,Yes,2,6111.0,12,1,3,2,3,0,Yes
+50780,47,Sales,Manager,No,3,7406.0,23,5,4,1,2,1,No
+50781,37,Research & Development,Manufacturing Director,No,2,6496.0,15,9,4,3,3,0,No
+50782,26,Sales,Sales Executive,No,1,3639.0,3,3,3,1,1,1,No
+50783,42,Research & Development,Research Scientist,Yes,3,5723.0,21,3,3,1,3,0,No
+50784,33,Research & Development,Manufacturing Director,No,3,6855.0,10,0,4,2,1,1,No
+50785,54,Human Resources,Manager,No,3,7414.0,36,19,3,3,1,1,No
+50786,37,Research & Development,Research Scientist,No,2,5006.0,12,12,1,1,3,0,No
+50787,18,Sales,Sales Executive,No,1,4042.0,0,0,3,2,3,1,No
+50788,40,Research & Development,Research Director,Yes,3,6891.0,18,10,2,4,2,1,No
+50789,55,Sales,Manager,No,3,6414.0,36,34,3,3,1,1,No
+50790,51,Research & Development,Research Scientist,No,3,5973.0,29,19,3,4,2,1,No
+50791,53,Research & Development,Laboratory Technician,No,2,4847.0,35,1,2,2,4,0,No
+50792,28,Research & Development,Manufacturing Director,No,1,3634.0,3,1,2,4,3,0,No
+50793,45,Research & Development,Research Scientist,No,2,3437.0,22,17,1,1,1,0,No
+50794,31,Research & Development,Laboratory Technician,No,1,2748.0,10,5,2,3,4,0,No
+50795,39,Research & Development,Laboratory Technician,Yes,3,5153.0,15,3,4,2,2,0,No
+50796,26,Research & Development,Manufacturing Director,No,1,2895.0,2,0,3,1,3,0,No
+50797,31,Research & Development,Laboratory Technician,Yes,1,4528.0,13,9,4,4,1,1,No
+50798,31,Research & Development,Laboratory Technician,No,1,2382.0,13,6,4,3,2,0,No
+50799,45,Sales,Sales Executive,No,3,7583.0,25,14,4,1,4,0,No
+50800,44,Sales,Manager,No,3,9514.0,26,10,1,1,2,1,No
+50801,39,Sales,Sales Executive,No,2,6508.0,17,6,2,3,1,0,No
+50802,25,Research & Development,Research Scientist,No,1,3570.0,3,2,1,3,1,0,No
+50803,34,Sales,Sales Executive,Yes,2,5973.0,12,0,1,1,4,1,Yes
+50804,30,Research & Development,Research Director,Yes,1,2217.0,12,5,1,4,4,0,Yes
+50805,45,Research & Development,Research Director,Yes,3,5534.0,20,7,2,3,1,0,No
+50806,48,Research & Development,Manufacturing Director,No,4,8726.0,23,18,1,2,4,0,No
+50807,47,Sales,Sales Executive,No,3,7309.0,25,18,4,1,4,0,No
+50808,30,Research & Development,Research Director,Yes,1,4435.0,12,5,3,2,2,1,Yes
+50809,18,Research & Development,Laboratory Technician,No,1,2938.0,0,0,3,2,3,0,No
+50810,21,Human Resources,Manager,Yes,1,3624.0,0,0,3,1,2,0,Yes
+50811,50,Research & Development,Laboratory Technician,No,2,5343.0,27,7,4,2,1,0,No
+50812,33,Research & Development,Research Director,Yes,2,5082.0,14,3,1,1,3,1,Yes
+50813,30,Human Resources,Manager,No,2,5135.0,6,1,2,1,1,0,No
+50814,52,Research & Development,Research Scientist,No,3,6181.0,27,7,2,1,2,0,No
+50815,48,Research & Development,Manufacturing Director,No,2,5452.0,26,20,3,2,2,0,No
+50816,37,Sales,Sales Executive,Yes,1,3626.0,16,0,3,2,1,0,Yes
+50817,34,Sales,Sales Representative,No,1,3054.0,12,0,4,2,4,0,No
+50818,36,Research & Development,Laboratory Technician,No,1,4049.0,18,10,3,3,3,0,No
+50819,39,Research & Development,Manufacturing Director,No,1,4375.0,17,4,1,3,4,0,No
+50820,51,Research & Development,Laboratory Technician,No,4,9310.0,33,28,3,1,3,0,No
+50821,41,Research & Development,Manufacturing Director,No,2,4262.0,23,18,4,4,1,1,No
+50822,44,Research & Development,Manufacturing Director,Yes,3,7040.0,22,17,3,3,2,0,No
+50823,48,Research & Development,Research Director,No,3,6130.0,26,12,3,2,2,0,No
+50824,26,Sales,Manager,Yes,1,3537.0,1,0,1,1,4,1,Yes
+50825,44,Sales,Sales Executive,No,2,4383.0,22,9,1,4,1,1,No
+50826,34,Research & Development,Research Director,Yes,2,6349.0,9,1,1,3,3,0,Yes
+50827,18,Research & Development,Research Scientist,Yes,1,4155.0,0,0,1,2,1,0,Yes
+50828,18,Research & Development,Manufacturing Director,No,1,4488.0,0,0,2,1,4,0,Yes
+50829,28,Sales,Sales Representative,No,1,4397.0,3,2,4,1,3,0,No
+50830,42,Research & Development,Manufacturing Director,No,2,4956.0,21,18,2,2,2,0,No
+50831,38,Research & Development,Manufacturing Director,No,1,3067.0,16,4,3,1,2,0,No
+50832,39,Research & Development,Research Director,Yes,2,6768.0,21,1,4,1,2,0,No
+50833,55,Research & Development,Laboratory Technician,Yes,3,6801.0,36,20,4,2,1,0,No
+50834,26,Sales,Manager,No,1,2231.0,4,1,3,1,3,0,No
+50835,37,Sales,Sales Executive,No,2,6107.0,17,14,4,2,4,1,No
+50836,40,Research & Development,Research Scientist,No,3,7079.0,18,16,2,4,1,0,No
+50837,30,Sales,Sales Representative,No,3,8305.0,12,12,2,4,3,1,No
+50838,37,Human Resources,Manager,No,1,3669.0,17,7,2,1,3,0,No
+50839,23,Research & Development,Manufacturing Director,Yes,1,3432.0,0,0,4,3,4,0,No
+50840,50,Research & Development,Research Director,No,2,6574.0,28,26,2,4,4,0,No
+50841,31,Research & Development,Research Scientist,No,1,2065.0,6,0,4,3,1,0,No
+50842,55,Sales,Sales Executive,No,3,6423.0,30,11,1,2,1,0,No
+50843,37,Research & Development,Research Director,Yes,1,2651.0,13,3,1,2,4,0,Yes
+50844,46,Research & Development,Laboratory Technician,No,2,3224.0,28,26,3,1,1,0,No
+50845,37,Research & Development,Research Scientist,No,1,4236.0,15,9,4,2,3,1,No
+50846,37,Sales,Manager,Yes,2,4698.0,18,6,3,4,4,0,No
+50847,32,Research & Development,Laboratory Technician,No,1,4265.0,12,1,2,3,3,0,No
+50848,38,Sales,Manager,No,2,5550.0,19,15,1,2,1,1,No
+50849,40,Research & Development,Research Director,No,1,3996.0,19,13,2,1,1,0,No
+50850,30,Human Resources,Manager,No,1,3040.0,12,11,2,4,3,1,No
+50851,36,Research & Development,Manufacturing Director,No,1,2762.0,14,6,2,1,4,0,No
+50852,32,Research & Development,Research Director,Yes,1,3531.0,13,2,4,3,2,1,No
+50853,58,Sales,Manager,Yes,4,9527.0,36,12,4,2,3,0,No
+50854,36,Sales,Sales Executive,No,3,6905.0,13,8,4,2,4,1,No
+50855,51,Research & Development,Research Scientist,No,3,6318.0,32,7,1,1,4,0,No
+50856,35,Research & Development,Laboratory Technician,No,2,4121.0,17,1,1,2,3,0,No
+50857,39,Sales,Sales Representative,No,3,7134.0,15,13,2,3,3,1,No
+50858,25,Sales,Sales Representative,Yes,1,2951.0,2,1,3,2,4,1,Yes
+50859,33,Research & Development,Research Scientist,Yes,1,3385.0,13,5,3,1,4,0,Yes
+50860,39,Research & Development,Manufacturing Director,No,3,6735.0,14,8,2,2,2,1,No
+50861,51,Sales,Sales Executive,No,4,8300.0,32,24,1,1,3,1,No
+50862,39,Sales,Sales Representative,No,2,5464.0,14,0,2,2,2,0,No
+50863,49,Sales,Sales Representative,No,1,3949.0,31,14,4,4,4,1,No
+50864,43,Research & Development,Manufacturing Director,No,1,5219.0,20,5,4,4,1,0,No
+50865,52,Research & Development,Laboratory Technician,No,3,7632.0,34,3,4,4,1,1,No
+50866,36,Sales,Sales Representative,No,2,6634.0,17,0,3,1,2,1,No
+50867,59,Sales,Manager,Yes,3,6213.0,38,17,1,2,1,1,No
+50868,33,Sales,Manager,No,2,3759.0,15,8,4,1,3,0,No
+50869,30,Research & Development,Research Director,No,2,5187.0,9,5,1,2,3,0,No
+50870,26,Research & Development,Laboratory Technician,No,2,5972.0,7,6,2,3,4,0,No
+50871,58,Sales,Sales Representative,No,4,9331.0,40,18,4,4,3,1,No
+50872,44,Research & Development,Laboratory Technician,No,1,4540.0,19,11,3,2,3,0,No
+50873,34,Human Resources,Manager,No,2,2917.0,9,8,1,1,3,0,No
+50874,48,Research & Development,Research Scientist,Yes,2,6328.0,23,15,3,2,1,0,No
+50875,43,Sales,Sales Representative,No,1,3752.0,24,22,1,2,3,1,Yes
+50876,55,Sales,Sales Executive,No,3,5560.0,34,7,2,3,1,1,No
+50877,23,Research & Development,Manufacturing Director,Yes,1,4101.0,3,3,4,1,3,0,Yes
+50878,35,Research & Development,Research Director,No,2,5353.0,15,11,2,3,4,0,No
+50879,33,Research & Development,Research Director,Yes,3,7293.0,12,7,4,2,4,1,No
+50880,19,Research & Development,Laboratory Technician,Yes,1,4349.0,0,0,3,3,3,0,Yes
+50881,47,Research & Development,Research Scientist,No,4,9087.0,26,0,3,4,2,0,No
+50882,35,Research & Development,Research Scientist,No,2,3874.0,15,8,3,1,4,0,No
+50883,44,Sales,Sales Executive,No,2,5071.0,19,17,3,4,4,1,No
+50884,58,Research & Development,Research Director,Yes,2,3744.0,33,21,1,1,2,0,Yes
+50885,34,Research & Development,Research Director,No,2,5784.0,14,0,4,4,1,0,No
+50886,33,Research & Development,Manufacturing Director,Yes,1,4708.0,14,4,2,2,3,0,Yes
+50887,38,Research & Development,Research Scientist,No,1,2333.0,16,9,3,3,3,0,No
+50888,46,Research & Development,Research Scientist,Yes,3,6346.0,26,21,3,4,4,0,No
+50889,32,Research & Development,Research Director,Yes,2,4406.0,7,3,3,3,4,0,No
+50890,31,Sales,Sales Executive,No,2,4791.0,10,9,2,2,1,0,No
+50891,47,Research & Development,Research Scientist,Yes,2,5571.0,29,23,4,4,2,0,No
+50892,40,Human Resources,Human Resources,No,2,4801.0,21,5,1,2,4,1,No
+50893,19,Research & Development,Laboratory Technician,Yes,1,4037.0,1,0,3,3,2,0,Yes
+50894,26,Research & Development,Manufacturing Director,No,1,4409.0,5,5,3,3,2,0,No
+50895,51,Sales,Manager,No,4,9692.0,31,18,3,2,2,0,No
+50896,41,Sales,Sales Executive,No,2,4194.0,17,15,1,1,2,0,No
+50897,30,Research & Development,Manufacturing Director,Yes,3,8197.0,5,5,2,2,3,0,Yes
+50898,35,Research & Development,Research Scientist,No,2,6519.0,16,7,1,4,2,0,No
+50899,37,Research & Development,Research Scientist,No,1,4847.0,12,0,3,3,2,0,No
+50900,44,Research & Development,Research Scientist,Yes,3,6808.0,22,20,3,3,2,0,No
+50901,25,Research & Development,Research Director,Yes,2,4523.0,5,3,3,2,1,0,Yes
+50902,29,Research & Development,Manufacturing Director,No,3,6064.0,8,1,4,3,4,0,No
+50903,39,Research & Development,Research Director,Yes,3,5958.0,18,10,2,2,4,1,No
+50904,36,Research & Development,Research Scientist,No,2,5211.0,17,0,2,1,2,0,No
+50905,42,Human Resources,Human Resources,No,2,5963.0,18,5,2,1,1,0,No
+50906,26,Sales,Manager,Yes,1,4626.0,8,3,1,2,3,1,Yes
+50907,40,Research & Development,Research Scientist,No,3,6513.0,22,10,4,3,3,0,No
+50908,47,Research & Development,Research Scientist,No,3,6915.0,27,15,4,2,3,0,No
+50909,41,Research & Development,Manufacturing Director,No,2,5106.0,22,19,2,1,3,0,No
+50910,38,Research & Development,Manufacturing Director,No,2,4628.0,20,7,4,2,3,0,No
+50911,36,Sales,Sales Executive,Yes,1,4112.0,15,11,1,2,1,0,Yes
+50912,29,Sales,Sales Representative,No,1,3777.0,8,8,1,3,1,1,No
+50913,36,Sales,Manager,No,2,5328.0,17,13,2,2,1,0,No
+50914,48,Human Resources,Human Resources,Yes,4,9022.0,24,6,2,2,1,0,No
+50915,36,Human Resources,Human Resources,No,1,4004.0,11,8,1,1,4,0,Yes
+50916,29,Human Resources,Human Resources,Yes,1,3995.0,6,1,3,3,3,0,Yes
+50917,33,Research & Development,Laboratory Technician,No,1,2695.0,11,5,4,4,3,0,No
+50918,39,Research & Development,Research Director,Yes,2,6007.0,14,9,2,3,3,0,Yes
+50919,34,Research & Development,Manufacturing Director,No,2,5430.0,14,4,2,2,1,0,No
+50920,41,Research & Development,Research Director,No,3,6559.0,20,0,1,2,1,1,No
+50921,42,Research & Development,Research Scientist,No,2,5411.0,24,20,2,2,4,0,No
+50922,45,Sales,Sales Executive,No,3,7260.0,22,16,4,1,2,1,No
+50923,50,Research & Development,Manufacturing Director,No,3,7924.0,32,4,4,1,3,0,No
+50924,46,Research & Development,Research Scientist,No,3,6008.0,23,9,1,4,4,0,No
+50925,29,Research & Development,Manufacturing Director,No,1,4642.0,5,1,1,4,1,1,No
+50926,29,Research & Development,Research Director,No,1,3471.0,10,10,4,4,4,0,No
+50927,36,Research & Development,Laboratory Technician,No,2,4744.0,14,14,1,3,3,0,No
+50928,33,Sales,Sales Representative,No,2,4717.0,13,9,3,4,2,0,No
+50929,27,Research & Development,Manufacturing Director,Yes,1,2549.0,6,3,4,2,2,0,Yes
+50930,33,Sales,Sales Executive,No,1,1883.0,11,0,4,2,1,1,No
+50931,33,Research & Development,Research Director,No,3,7560.0,14,3,3,1,1,0,No
+50932,31,Research & Development,Research Scientist,Yes,3,8733.0,7,0,2,1,1,0,Yes
+50933,34,Research & Development,Research Director,Yes,1,1994.0,13,11,4,3,4,0,No
+50934,48,Sales,Sales Representative,No,1,2595.0,27,2,3,1,1,1,No
+50935,39,Sales,Sales Executive,No,1,4126.0,15,10,4,4,2,1,No
+50936,59,Research & Development,Manufacturing Director,Yes,3,6909.0,40,39,3,4,1,0,No
+50937,39,Sales,Sales Executive,No,2,5951.0,18,5,4,2,2,1,No
+50938,34,Research & Development,Manufacturing Director,No,2,5108.0,9,6,4,3,1,0,No
+50939,37,Sales,Manager,No,2,4677.0,16,14,1,1,2,1,No
+50940,39,Research & Development,Research Director,No,2,4997.0,21,9,2,2,3,0,No
+50941,41,Research & Development,Research Director,No,1,1306.0,21,9,4,1,4,0,No
+50942,56,Sales,Sales Representative,No,3,5921.0,31,6,1,1,2,0,No
+50943,29,Research & Development,Manufacturing Director,No,1,4303.0,5,2,3,1,3,0,No
+50944,45,Research & Development,Laboratory Technician,No,1,4523.0,21,19,2,4,3,0,No
+50945,39,Research & Development,Research Director,No,1,4716.0,19,13,1,3,4,0,No
+50946,23,Research & Development,Laboratory Technician,Yes,1,3847.0,0,0,3,4,4,0,Yes
+50947,44,Sales,Manager,Yes,3,4920.0,23,4,4,4,1,1,No
+50948,48,Sales,Sales Representative,No,3,6378.0,24,13,4,4,3,1,No
+50949,29,Sales,Manager,No,1,4642.0,4,3,2,4,4,0,No
+50950,37,Research & Development,Research Scientist,No,1,4911.0,18,1,1,1,2,0,No
+50951,21,Research & Development,Manufacturing Director,No,1,4676.0,0,0,4,4,3,0,No
+50952,26,Research & Development,Research Scientist,No,1,3237.0,3,3,4,3,2,0,No
+50953,46,Research & Development,Research Scientist,No,1,2274.0,23,4,3,1,2,1,No
+50954,33,Research & Development,Laboratory Technician,Yes,2,5163.0,9,2,3,1,1,0,Yes
+50955,27,Sales,Sales Representative,Yes,1,3463.0,8,3,3,4,1,1,Yes
+50956,39,Sales,Manager,No,2,6609.0,16,8,1,4,3,0,No
+50957,32,Sales,Sales Representative,No,1,3655.0,13,12,1,2,4,1,Yes
+50958,33,Research & Development,Research Scientist,No,2,5215.0,13,3,1,1,3,1,No
+50959,44,Research & Development,Laboratory Technician,Yes,5,10516.0,26,6,4,2,1,1,No
+50960,27,Research & Development,Laboratory Technician,No,1,3810.0,8,3,1,1,1,0,Yes
+50961,29,Research & Development,Manufacturing Director,No,1,4014.0,4,4,3,3,3,0,No
+50962,38,Research & Development,Manufacturing Director,No,1,2798.0,18,18,2,2,1,0,No
+50963,46,Research & Development,Research Scientist,Yes,3,5998.0,25,11,1,1,3,0,Yes
+50964,48,Research & Development,Manufacturing Director,No,2,6434.0,27,19,4,4,4,1,No
+50965,31,Human Resources,Manager,No,1,1973.0,8,8,1,4,1,0,No
+50966,45,Research & Development,Research Director,No,2,6674.0,23,20,4,4,3,1,No
+50967,30,Human Resources,Manager,Yes,2,3480.0,8,6,4,4,4,0,No
+50968,53,Research & Development,Research Director,Yes,2,4674.0,29,16,4,1,2,0,No
+50969,27,Research & Development,Research Scientist,Yes,2,6075.0,6,6,1,4,4,0,Yes
+50970,49,Research & Development,Manufacturing Director,No,2,5200.0,25,6,4,4,4,0,No
+50971,31,Research & Development,Research Scientist,No,1,2265.0,6,2,3,4,2,0,No
+50972,55,Research & Development,Research Scientist,Yes,4,9084.0,32,23,2,2,2,0,No
+50973,42,Research & Development,Research Director,No,2,5260.0,24,0,3,2,3,0,No
+50974,28,Sales,Sales Representative,Yes,2,5006.0,8,4,2,4,3,0,Yes
+50975,32,Research & Development,Manufacturing Director,No,2,4638.0,10,9,2,1,2,0,No
+50976,44,Research & Development,Manufacturing Director,No,2,5169.0,23,4,2,3,1,1,No
+50977,46,Research & Development,Manufacturing Director,Yes,2,4676.0,26,21,3,4,3,0,No
+50978,36,Research & Development,Research Scientist,Yes,2,7391.0,16,7,3,4,1,0,No
+50979,37,Research & Development,Research Scientist,Yes,3,6734.0,19,17,1,3,1,0,Yes
+50980,44,Research & Development,Research Scientist,Yes,3,6614.0,25,16,1,4,1,0,Yes
+50981,38,Human Resources,Manager,No,2,4713.0,14,2,4,4,2,1,No
+50982,25,Sales,Sales Executive,Yes,1,5049.0,7,5,3,4,1,1,No
+50983,30,Sales,Sales Representative,Yes,1,1975.0,6,0,4,1,2,1,Yes
+50984,39,Research & Development,Laboratory Technician,No,3,7273.0,19,4,2,1,1,0,No
+50985,48,Research & Development,Research Scientist,No,3,6735.0,24,22,2,2,2,0,No
+50986,52,Sales,Sales Representative,Yes,3,5669.0,32,28,2,2,4,0,Yes
+50987,44,Research & Development,Research Scientist,No,2,4463.0,20,0,3,2,2,0,No
+50988,40,Research & Development,Research Scientist,No,1,3735.0,18,7,4,1,3,0,No
+50989,44,Research & Development,Research Scientist,No,1,2672.0,20,1,3,3,1,1,No
+50990,31,Sales,Manager,No,1,3684.0,13,3,2,1,1,0,No
+50991,36,Research & Development,Manufacturing Director,Yes,3,8506.0,12,12,4,4,4,0,No
+50992,30,Sales,Manager,Yes,1,3604.0,10,2,3,3,3,1,Yes
+50993,26,Sales,Sales Representative,No,1,2142.0,6,4,2,4,1,0,No
+50994,40,Research & Development,Research Scientist,No,1,2688.0,22,18,1,1,3,0,No
+50995,39,Sales,Sales Representative,No,2,4943.0,14,13,3,2,1,1,No
+50996,43,Research & Development,Research Director,Yes,2,4883.0,20,7,3,4,1,0,No
+50997,42,Research & Development,Manufacturing Director,No,2,5337.0,17,12,4,2,2,0,No
+50998,39,Research & Development,Research Scientist,Yes,2,5481.0,17,8,1,3,3,0,Yes
+50999,42,Human Resources,Human Resources,No,2,6757.0,23,2,1,1,3,0,No
+51000,37,Research & Development,Research Director,No,1,3447.0,17,4,4,4,4,0,No
+51001,41,Research & Development,Manufacturing Director,No,3,5913.0,20,15,3,2,1,0,No
+51002,30,Research & Development,Research Director,Yes,1,4488.0,11,8,1,4,1,1,Yes
+51003,40,Research & Development,Manufacturing Director,No,2,6337.0,15,8,1,2,3,0,No
+51004,43,Research & Development,Research Scientist,No,1,3659.0,18,14,2,1,4,0,No
+51005,31,Research & Development,Research Director,No,1,3228.0,9,6,3,3,3,0,No
+51006,37,Research & Development,Research Director,No,2,5760.0,15,5,1,2,3,0,No
+51007,31,Sales,Manager,No,2,5010.0,8,2,2,2,1,0,No
+51008,32,Research & Development,Research Director,Yes,1,1600.0,9,9,3,4,4,0,Yes
+51009,27,Sales,Sales Executive,Yes,1,3957.0,9,9,4,2,4,0,Yes
+51010,48,Research & Development,Research Director,No,3,7753.0,26,0,2,2,3,0,No
+51011,47,Sales,Sales Executive,Yes,2,6497.0,23,18,2,3,2,1,Yes
+51012,42,Research & Development,Research Director,Yes,3,6292.0,18,2,2,1,3,0,No
+51013,55,Research & Development,Research Scientist,No,4,8904.0,33,29,1,4,3,0,No
+51014,35,Human Resources,Manager,Yes,1,3673.0,10,6,1,1,4,0,Yes
+51015,64,Research & Development,Research Director,Yes,4,8777.0,42,29,4,1,1,1,No
+51016,35,Research & Development,Research Scientist,Yes,1,3553.0,14,10,1,1,3,0,Yes
+51017,39,Sales,Sales Executive,Yes,1,3483.0,18,11,4,2,3,0,Yes
+51018,33,Sales,Manager,No,1,3641.0,10,2,1,3,2,0,No
+51019,40,Research & Development,Research Scientist,No,2,5867.0,15,12,3,3,4,0,No
+51020,45,Research & Development,Manufacturing Director,Yes,1,4548.0,26,14,4,4,1,0,No
+51021,36,Sales,Manager,No,2,4519.0,16,9,3,4,1,1,No
+51022,53,Sales,Sales Representative,No,4,8545.0,30,9,3,2,4,1,No
+51023,39,Human Resources,Human Resources,No,2,4820.0,15,0,2,4,1,0,No
+51024,39,Research & Development,Laboratory Technician,No,1,2941.0,18,10,3,1,2,0,No
+51025,29,Sales,Sales Representative,Yes,1,1996.0,6,2,3,1,2,0,Yes
+51026,41,Research & Development,Manufacturing Director,No,3,6972.0,23,15,2,2,3,1,No
+51027,36,Sales,Sales Representative,No,1,3881.0,16,6,1,3,1,1,No
+51028,32,Research & Development,Research Scientist,No,2,5060.0,7,7,4,1,2,1,No
+51029,30,Sales,Sales Representative,No,1,3442.0,8,6,1,4,4,1,No
+51030,61,Research & Development,Manufacturing Director,Yes,4,9077.0,37,17,4,2,2,0,No
+51031,35,Research & Development,Manufacturing Director,No,1,4720.0,16,12,4,2,3,0,No
+51032,24,Sales,Sales Executive,No,1,3072.0,4,3,1,3,4,1,No
+51033,31,Research & Development,Manufacturing Director,No,2,4146.0,6,4,3,2,3,0,No
+51034,37,Sales,Manager,No,1,3369.0,12,7,3,2,4,0,No
+51035,42,Research & Development,Research Scientist,No,2,6895.0,17,16,1,4,4,0,No
+51036,42,Research & Development,Research Director,No,2,4155.0,22,7,4,2,3,0,No
+51037,43,Research & Development,Manufacturing Director,No,2,5785.0,19,8,1,1,4,1,No
+51038,31,Research & Development,Laboratory Technician,No,2,6242.0,10,2,1,3,3,0,No
+51039,40,Research & Development,Manufacturing Director,No,1,1321.0,16,9,4,3,4,0,No
+51040,29,Research & Development,Manufacturing Director,No,1,3819.0,5,5,3,1,3,0,No
+51041,31,Research & Development,Manufacturing Director,No,2,5743.0,10,6,1,4,2,0,No
+51042,29,Sales,Sales Executive,No,2,4959.0,9,2,1,2,3,0,No
+51043,26,Sales,Manager,Yes,1,2868.0,1,1,2,1,2,1,Yes
+51044,47,Sales,Manager,No,2,4668.0,26,21,1,1,2,0,No
+51045,43,Research & Development,Research Scientist,Yes,2,4904.0,22,10,1,3,2,0,Yes
+51046,46,Research & Development,Manufacturing Director,No,2,4928.0,23,3,3,1,2,0,No
+51047,37,Research & Development,Research Scientist,Yes,2,4758.0,12,5,1,2,2,0,Yes
+51048,44,Sales,Sales Representative,No,2,4890.0,25,20,2,3,3,1,No
+51049,21,Sales,Manager,No,1,4522.0,0,0,2,4,2,1,No
+51050,45,Research & Development,Research Scientist,Yes,4,7607.0,24,14,4,2,2,0,No
+51051,39,Sales,Sales Representative,No,2,3626.0,21,4,4,4,1,0,No
+51052,43,Research & Development,Research Scientist,No,1,4536.0,23,3,4,2,2,0,No
+51053,40,Research & Development,Manufacturing Director,No,1,3277.0,19,19,2,4,2,0,No
+51054,28,Research & Development,Laboratory Technician,Yes,1,3101.0,5,2,3,2,4,0,Yes
+51055,24,Research & Development,Manufacturing Director,No,1,3350.0,2,2,3,1,2,0,No
+51056,31,Sales,Manager,No,2,5388.0,12,4,4,3,1,0,No
+51057,42,Sales,Sales Representative,No,2,4728.0,21,1,3,4,2,1,No
+51058,43,Research & Development,Manufacturing Director,Yes,3,7405.0,24,10,4,4,3,0,No
+51059,25,Research & Development,Research Scientist,No,1,2584.0,5,4,3,4,1,0,No
+51060,28,Sales,Sales Executive,No,1,3178.0,5,2,4,1,1,1,No
+51061,30,Human Resources,Manager,Yes,1,1457.0,6,4,3,3,2,0,Yes
+51062,34,Research & Development,Research Director,No,1,4505.0,15,7,3,3,2,1,No
+51063,25,Research & Development,Manufacturing Director,Yes,2,5042.0,3,1,3,3,2,0,No
+51064,24,Research & Development,Laboratory Technician,No,1,4053.0,3,1,2,1,1,0,Yes
+51065,30,Research & Development,Research Scientist,No,2,5629.0,10,2,3,1,3,0,No
+51066,38,Human Resources,Manager,Yes,1,3945.0,15,4,2,3,1,0,Yes
+51067,26,Research & Development,Research Director,No,1,3443.0,7,5,3,4,3,0,No
+51068,36,Sales,Sales Executive,No,1,3799.0,12,4,2,1,3,0,No
+51069,47,Research & Development,Manufacturing Director,No,3,6085.0,26,20,4,1,1,0,No
+51070,25,Research & Development,Manufacturing Director,No,1,2396.0,7,2,3,2,2,0,No
+51071,35,Sales,Sales Representative,No,1,3359.0,11,3,3,2,1,1,No
+51072,46,Research & Development,Research Director,Yes,2,4588.0,22,21,1,4,3,0,Yes
+51073,33,Research & Development,Research Scientist,No,2,6483.0,11,10,4,4,2,0,No
+51074,32,Sales,Sales Executive,No,2,5538.0,9,4,4,3,2,0,No
+51075,47,Sales,Sales Executive,No,3,6305.0,28,7,1,4,1,1,No
+51076,34,Research & Development,Manufacturing Director,Yes,2,4956.0,14,10,2,1,2,0,Yes
+51077,47,Research & Development,Manufacturing Director,Yes,3,7070.0,27,1,3,4,2,0,No
+51078,41,Research & Development,Research Director,No,1,3389.0,17,8,4,2,1,0,No
+51079,34,Research & Development,Manufacturing Director,Yes,1,3695.0,14,8,3,2,4,0,Yes
+51080,41,Research & Development,Research Scientist,Yes,1,3512.0,18,12,2,1,2,1,Yes
+51081,40,Research & Development,Laboratory Technician,No,1,2198.0,20,2,2,1,1,0,Yes
+51082,46,Sales,Sales Executive,Yes,3,5014.0,24,0,4,1,3,1,No
+51083,32,Sales,Manager,Yes,1,3114.0,13,3,4,2,2,1,No
+51084,37,Sales,Manager,Yes,2,5704.0,15,1,4,1,2,1,No
+51085,36,Human Resources,Manager,No,1,3124.0,18,9,2,1,3,0,No
+51086,43,Sales,Sales Representative,No,4,9813.0,20,19,2,3,1,1,No
+51087,28,Sales,Sales Executive,No,1,3408.0,10,3,1,4,3,1,No
+51088,46,Sales,Sales Executive,Yes,4,9921.0,21,9,4,1,1,0,No
+51089,41,Research & Development,Laboratory Technician,Yes,1,4487.0,17,3,4,3,1,0,Yes
+51090,25,Research & Development,Laboratory Technician,No,1,4396.0,3,0,1,4,1,1,No
+51091,48,Research & Development,Research Director,No,1,2367.0,23,16,1,2,1,0,No
+51092,57,Research & Development,Research Director,No,4,8715.0,33,8,3,1,2,1,No
+51093,46,Research & Development,Research Scientist,No,1,4550.0,27,15,2,1,4,0,No
+51094,50,Research & Development,Laboratory Technician,No,2,5445.0,27,19,2,4,4,1,No
+51095,38,Research & Development,Manufacturing Director,No,1,3949.0,17,15,2,2,1,0,No
+51096,22,Research & Development,Laboratory Technician,No,1,2201.0,0,0,3,1,4,0,No
+51097,20,Research & Development,Research Scientist,Yes,1,5177.0,0,0,4,4,3,1,No
+51098,39,Sales,Manager,No,3,6238.0,14,2,4,4,3,1,No
+51099,32,Sales,Manager,No,1,1655.0,11,6,2,3,4,1,No
+51100,29,Research & Development,Manufacturing Director,No,1,3134.0,10,10,4,1,2,0,No
+51101,36,Research & Development,Laboratory Technician,No,1,1247.0,17,8,3,1,2,1,No
+51102,43,Research & Development,Research Director,No,2,4223.0,24,1,1,1,3,0,No
+51103,24,Sales,Sales Executive,No,1,5753.0,0,0,4,1,3,0,No
+51104,33,Sales,Sales Representative,Yes,2,4858.0,11,3,2,3,3,0,Yes
+51105,51,Research & Development,Research Director,No,4,7415.0,31,25,3,2,1,0,No
+51106,27,Sales,Manager,No,2,5223.0,6,5,3,4,4,0,No
+51107,45,Research & Development,Laboratory Technician,Yes,2,4392.0,26,8,4,1,2,1,No
+51108,33,Research & Development,Manufacturing Director,No,2,5978.0,11,2,4,3,4,0,No
+51109,42,Human Resources,Human Resources,No,2,4399.0,21,6,4,4,2,0,No
+51110,47,Research & Development,Research Scientist,No,2,5444.0,23,5,3,1,1,0,No
+51111,44,Research & Development,Laboratory Technician,Yes,2,4168.0,26,20,2,3,4,1,No
+51112,45,Research & Development,Research Director,No,2,7539.0,20,17,2,3,3,0,No
+51113,27,Research & Development,Manufacturing Director,Yes,2,5653.0,9,0,4,1,1,0,Yes
+51114,47,Sales,Sales Representative,Yes,3,6819.0,26,20,1,2,1,0,Yes
+51115,29,Human Resources,Human Resources,No,1,3186.0,9,7,3,4,1,0,No
+51116,39,Research & Development,Research Scientist,Yes,2,4702.0,16,10,3,4,1,0,No
+51117,39,Research & Development,Laboratory Technician,Yes,4,8015.0,16,14,1,2,4,0,Yes
+51118,41,Sales,Sales Executive,No,3,6240.0,22,0,3,1,1,0,No
+51119,40,Research & Development,Research Scientist,No,1,4960.0,19,13,2,1,1,0,No
+51120,29,Sales,Manager,No,1,2953.0,7,1,2,4,4,1,No
+51121,25,Sales,Sales Executive,No,1,1534.0,4,4,3,3,4,1,No
+51122,45,Research & Development,Research Scientist,No,2,4151.0,27,13,1,2,1,0,No
+51123,39,Sales,Sales Representative,No,1,4285.0,20,1,1,1,3,1,Yes
+51124,47,Research & Development,Laboratory Technician,No,3,6723.0,25,19,2,4,3,0,No
+51125,37,Research & Development,Laboratory Technician,No,3,6829.0,17,13,3,2,3,0,No
+51126,24,Research & Development,Research Scientist,No,1,4503.0,2,1,1,3,2,0,Yes
+51127,46,Research & Development,Research Scientist,Yes,1,2751.0,27,8,2,4,4,0,No
+51128,34,Sales,Sales Representative,No,1,4019.0,11,0,2,3,4,1,No
+51129,40,Sales,Manager,No,1,2849.0,21,19,3,4,3,1,No
+51130,31,Human Resources,Human Resources,Yes,3,7468.0,8,1,2,3,4,0,Yes
+51131,52,Human Resources,Manager,Yes,4,8348.0,28,24,1,2,1,0,Yes
+51132,29,Research & Development,Manufacturing Director,No,2,4983.0,9,5,3,4,3,0,No
+51133,34,Research & Development,Laboratory Technician,No,1,4188.0,15,10,4,3,4,0,No
+51134,38,Sales,Sales Executive,Yes,1,4123.0,20,14,3,4,3,1,No
+51135,27,Human Resources,Human Resources,Yes,1,3301.0,7,6,2,1,4,0,Yes
+51136,40,Research & Development,Research Scientist,No,2,4776.0,22,0,2,3,2,0,No
+51137,52,Research & Development,Manufacturing Director,No,3,8389.0,27,27,1,3,4,0,No
+51138,33,Research & Development,Manufacturing Director,No,2,5730.0,8,0,1,1,4,0,No
+51139,41,Research & Development,Laboratory Technician,No,2,4848.0,16,16,2,2,3,0,No
+51140,18,Sales,Sales Representative,Yes,1,2862.0,0,0,3,4,3,1,Yes
+51141,37,Research & Development,Laboratory Technician,Yes,2,6122.0,15,4,2,3,3,0,Yes
+51142,34,Sales,Sales Representative,No,2,5304.0,14,12,4,4,2,1,No
+51143,30,Sales,Manager,No,1,3303.0,9,0,3,1,3,1,No
+51144,47,Sales,Sales Executive,No,3,7053.0,27,12,1,1,4,1,No
+51145,34,Research & Development,Laboratory Technician,No,1,3754.0,10,5,3,4,1,0,No
+51146,35,Research & Development,Research Scientist,No,1,3399.0,14,14,3,2,1,0,No
+51147,34,Sales,Sales Representative,No,1,4533.0,13,1,1,4,2,0,No
+51148,20,Sales,Sales Executive,No,1,4583.0,0,0,2,4,2,1,No
+51149,27,Research & Development,Laboratory Technician,No,2,5679.0,7,0,4,2,3,0,No
+51150,46,Sales,Sales Representative,No,4,9937.0,26,17,2,4,2,1,No
+51151,18,Research & Development,Laboratory Technician,No,1,3458.0,0,0,2,4,3,0,No
+51152,30,Sales,Sales Representative,No,3,7571.0,12,0,1,1,1,1,No
+51153,33,Research & Development,Research Director,No,1,4354.0,15,12,1,1,2,1,No
+51154,53,Research & Development,Research Director,Yes,4,9617.0,32,1,2,1,3,0,Yes
+51155,44,Research & Development,Research Scientist,Yes,2,6024.0,19,19,4,3,2,0,No
+51156,32,Research & Development,Laboratory Technician,No,1,4018.0,12,6,4,1,3,0,No
+51157,49,Research & Development,Research Director,No,2,6961.0,26,25,3,2,3,1,No
+51158,30,Research & Development,Manufacturing Director,No,1,2964.0,10,1,4,2,2,0,No
+51159,46,Research & Development,Research Scientist,No,3,6810.0,26,7,3,1,2,0,No
+51160,25,Sales,Sales Representative,Yes,1,3257.0,6,3,3,2,4,1,Yes
+51161,47,Research & Development,Research Scientist,No,2,4869.0,25,0,2,3,4,0,No
+51162,33,Sales,Sales Executive,No,1,1660.0,10,1,1,4,1,1,No
+51163,28,Sales,Sales Representative,No,1,4687.0,8,2,2,2,3,1,No
+51164,35,Research & Development,Manufacturing Director,No,3,6027.0,13,10,4,3,2,1,No
+51165,39,Research & Development,Research Director,Yes,3,7103.0,18,13,3,3,1,1,No
+51166,33,Sales,Sales Representative,No,1,2170.0,13,1,4,2,3,1,No
+51167,42,Sales,Manager,No,2,5759.0,19,1,1,3,1,0,No
+51168,32,Research & Development,Laboratory Technician,No,1,2743.0,10,7,1,4,2,0,No
+51169,43,Sales,Manager,No,3,5928.0,25,9,2,1,3,0,No
+51170,41,Research & Development,Research Scientist,No,2,5375.0,20,16,2,3,4,0,No
+51171,36,Research & Development,Research Scientist,No,1,2819.0,15,4,4,1,2,0,No
+51172,33,Sales,Manager,No,1,2933.0,9,3,2,4,4,0,No
+51173,38,Research & Development,Research Director,No,1,3605.0,18,4,3,3,4,1,No
+51174,42,Sales,Manager,No,3,7670.0,17,4,3,1,2,0,No
+51175,56,Research & Development,Laboratory Technician,Yes,4,7963.0,34,24,2,3,1,0,Yes
+51176,45,Sales,Sales Executive,Yes,3,6058.0,26,12,4,2,3,0,No
+51177,46,Research & Development,Research Director,Yes,1,3471.0,25,17,1,1,1,0,Yes
+51178,65,Research & Development,Manufacturing Director,Yes,4,9185.0,40,3,1,4,4,0,No
+51179,42,Research & Development,Research Scientist,No,4,10016.0,22,12,3,2,2,0,No
+51180,41,Research & Development,Research Director,No,3,5986.0,18,8,3,1,4,0,No
+51181,43,Sales,Manager,Yes,1,3164.0,19,18,2,3,3,1,No
+51182,28,Research & Development,Laboratory Technician,No,1,4508.0,5,2,4,2,2,1,No
+51183,33,Research & Development,Research Director,No,1,5226.0,15,1,1,3,4,1,No
+51184,32,Research & Development,Research Director,No,3,6056.0,12,9,2,1,4,0,No
+51185,43,Research & Development,Manufacturing Director,Yes,2,4535.0,23,3,1,4,4,0,No
+51186,35,Sales,Sales Representative,No,1,3793.0,15,14,1,2,1,1,No
+51187,38,Research & Development,Laboratory Technician,Yes,2,4680.0,13,5,3,2,2,0,Yes
+51188,47,Human Resources,Manager,No,1,2767.0,29,23,3,4,4,0,No
+51189,45,Research & Development,Research Director,Yes,1,3670.0,23,15,3,3,4,0,Yes
+51190,36,Sales,Manager,No,2,6594.0,11,5,4,1,2,0,No
+51191,31,Research & Development,Manufacturing Director,No,2,4021.0,6,4,1,3,1,0,No
+51192,47,Research & Development,Research Scientist,Yes,1,4799.0,25,4,3,3,2,0,No
+51193,44,Sales,Sales Representative,Yes,2,4683.0,19,1,1,2,3,1,Yes
+51194,23,Human Resources,Human Resources,No,1,3761.0,2,2,4,1,3,0,No
+51195,34,Sales,Manager,No,1,4882.0,12,12,3,1,4,1,No
+51196,38,Research & Development,Manufacturing Director,No,2,5493.0,16,14,4,4,1,1,No
+51197,44,Research & Development,Manufacturing Director,Yes,2,4932.0,26,8,3,1,2,0,Yes
+51198,45,Sales,Sales Executive,Yes,4,9346.0,27,10,2,3,2,1,No
+51199,40,Research & Development,Research Director,No,2,5044.0,15,5,3,4,4,1,No
+51200,42,Sales,Sales Representative,No,2,5669.0,23,16,4,2,1,1,No
+51201,38,Research & Development,Research Scientist,Yes,2,5016.0,18,11,1,1,1,0,Yes
+51202,31,Research & Development,Research Director,No,1,4225.0,9,7,4,3,2,0,No
+51203,35,Sales,Sales Executive,No,1,2195.0,13,13,3,3,1,0,No
+51204,37,Sales,Sales Executive,Yes,1,2538.0,15,6,1,1,3,0,Yes
+51205,37,Research & Development,Research Scientist,No,1,2182.0,12,8,4,3,3,0,No
+51206,20,Research & Development,Laboratory Technician,Yes,1,3399.0,0,0,1,1,3,0,Yes
+51207,33,Research & Development,Research Scientist,No,2,3823.0,8,4,3,2,4,0,No
+51208,38,Research & Development,Research Director,No,1,2827.0,15,15,1,2,2,1,No
+51209,34,Research & Development,Manufacturing Director,No,1,2453.0,9,3,1,4,2,0,No
+51210,35,Research & Development,Laboratory Technician,Yes,3,8282.0,13,2,3,4,2,0,No
+51211,41,Sales,Sales Executive,No,1,2558.0,19,7,3,3,4,0,No
+51212,27,Sales,Sales Representative,No,1,2292.0,3,2,3,3,3,1,No
+51213,22,Research & Development,Research Scientist,No,1,3674.0,0,0,2,1,1,0,No
+51214,34,Research & Development,Research Director,No,1,4968.0,16,16,4,1,3,0,No
+51215,44,Research & Development,Laboratory Technician,Yes,1,3346.0,19,16,1,4,3,0,Yes
+51216,52,Research & Development,Laboratory Technician,No,4,8665.0,29,0,4,2,1,0,No
+51217,44,Research & Development,Research Scientist,No,2,6362.0,19,10,2,3,3,0,No
+51218,24,Research & Development,Research Scientist,No,1,4240.0,1,0,3,3,3,1,No
+51219,35,Sales,Sales Executive,Yes,1,3833.0,10,3,4,2,1,0,No
+51220,39,Research & Development,Research Scientist,No,1,2926.0,19,18,2,3,1,0,No
+51221,39,Research & Development,Manufacturing Director,No,3,7360.0,20,20,2,3,3,0,No
+51222,42,Research & Development,Research Director,No,3,5725.0,23,3,4,1,3,1,No
+51223,29,Sales,Manager,No,1,2889.0,9,1,4,3,3,0,No
+51224,38,Research & Development,Laboratory Technician,No,2,6488.0,19,13,1,1,2,0,No
+51225,41,Research & Development,Research Director,Yes,2,6372.0,20,8,3,2,3,0,No
+51226,44,Sales,Sales Representative,No,2,5594.0,25,11,2,4,4,0,No
+51227,30,Research & Development,Research Scientist,No,1,1714.0,11,10,3,4,1,1,No
+51228,34,Research & Development,Research Scientist,No,2,4113.0,12,11,2,1,3,0,No
+51229,18,Sales,Sales Representative,Yes,1,2838.0,0,0,1,3,1,0,Yes
+51230,31,Research & Development,Laboratory Technician,Yes,2,5045.0,12,11,4,3,1,0,No
+51231,32,Research & Development,Research Scientist,No,1,2325.0,10,8,3,3,4,0,No
+51232,28,Research & Development,Research Director,Yes,1,3228.0,5,5,2,4,1,0,Yes
+51233,38,Research & Development,Manufacturing Director,No,2,6791.0,15,11,1,1,3,0,No
+51234,36,Sales,Sales Representative,No,2,5561.0,18,16,1,3,3,1,No
+51235,18,Research & Development,Research Director,Yes,1,3647.0,0,0,2,2,4,0,Yes
+51236,39,Research & Development,Research Director,No,2,4284.0,21,11,3,1,3,0,No
+51237,29,Research & Development,Research Director,No,2,3725.0,10,0,2,2,3,0,No
+51238,41,Research & Development,Laboratory Technician,No,1,2345.0,21,17,3,1,4,0,No
+51239,25,Research & Development,Research Director,No,1,1939.0,1,1,2,3,4,0,No
+51240,37,Research & Development,Manufacturing Director,Yes,2,5268.0,18,5,1,3,3,1,No
+51241,34,Sales,Manager,Yes,2,5545.0,10,4,3,3,1,1,No
+51242,40,Research & Development,Research Director,No,2,4331.0,15,9,1,1,1,1,No
+51243,38,Research & Development,Research Scientist,No,3,7083.0,13,9,1,4,2,0,No
+51244,35,Research & Development,Laboratory Technician,No,1,4772.0,15,10,1,1,3,0,Yes
+51245,23,Research & Development,Research Scientist,No,1,5212.0,5,2,2,2,3,1,No
+51246,24,Research & Development,Laboratory Technician,Yes,1,4143.0,5,5,3,2,4,0,Yes
+51247,32,Research & Development,Laboratory Technician,No,1,3293.0,8,7,4,3,1,0,No
+51248,37,Research & Development,Research Director,Yes,1,4114.0,18,17,1,2,1,1,Yes
+51249,32,Sales,Manager,Yes,1,4667.0,9,5,1,4,1,1,Yes
+51250,43,Sales,Sales Representative,No,3,5143.0,23,1,1,4,3,1,No
+51251,34,Research & Development,Laboratory Technician,No,1,4784.0,10,9,2,4,3,0,No
+51252,28,Research & Development,Manufacturing Director,No,1,2960.0,6,0,1,1,1,0,No
+51253,34,Research & Development,Research Director,No,2,4719.0,12,2,2,4,4,0,No
+51254,39,Research & Development,Research Director,No,3,6631.0,15,4,4,1,2,0,No
+51255,40,Research & Development,Research Scientist,No,3,7238.0,15,2,2,4,3,0,No
+51256,54,Sales,Sales Executive,No,2,4200.0,34,25,3,4,4,0,No
+51257,31,Sales,Manager,No,1,3194.0,9,4,3,1,1,0,No
+51258,36,Sales,Sales Executive,No,3,7423.0,13,3,1,1,4,0,No
+51259,41,Research & Development,Research Scientist,No,2,5397.0,17,0,1,3,4,0,No
+51260,37,Human Resources,Human Resources,Yes,1,3793.0,16,3,2,1,4,1,Yes
+51261,32,Research & Development,Laboratory Technician,Yes,2,4908.0,12,9,2,4,1,0,No
+51262,23,Research & Development,Laboratory Technician,No,1,4074.0,0,0,1,3,2,1,No
+51263,32,Research & Development,Manufacturing Director,No,1,4401.0,7,6,3,3,1,0,No
+51264,27,Sales,Sales Executive,No,1,4347.0,5,1,2,4,2,1,No
+51265,21,Research & Development,Manufacturing Director,Yes,1,3835.0,3,0,2,1,4,0,Yes
+51266,30,Sales,Manager,No,1,4295.0,10,6,3,3,4,1,No
+51267,28,Research & Development,Laboratory Technician,No,1,4234.0,7,6,4,4,4,0,No
+51268,42,Human Resources,Human Resources,Yes,1,5859.0,19,1,4,1,2,0,Yes
+51269,42,Research & Development,Manufacturing Director,No,1,4546.0,19,15,4,1,4,0,No
+51270,29,Research & Development,Manufacturing Director,No,1,3370.0,5,1,2,1,4,1,No
+51271,35,Human Resources,Human Resources,No,2,4379.0,17,4,1,2,4,0,No
+51272,20,Research & Development,Laboratory Technician,Yes,1,3215.0,0,0,1,1,4,1,Yes
+51273,33,Research & Development,Manufacturing Director,No,1,3151.0,10,6,2,1,3,0,No
+51274,41,Research & Development,Laboratory Technician,Yes,2,5660.0,16,0,2,4,1,1,No
+51275,44,Research & Development,Laboratory Technician,No,1,2820.0,25,7,1,2,2,0,Yes
+51276,31,Research & Development,Laboratory Technician,No,1,4523.0,6,0,1,2,4,0,Yes
+51277,46,Research & Development,Laboratory Technician,No,3,5699.0,28,6,1,2,2,0,No
+51278,23,Research & Development,Manufacturing Director,Yes,1,1981.0,4,3,3,4,1,1,Yes
+51279,26,Sales,Sales Representative,No,1,3328.0,2,0,2,2,4,1,No
+51280,43,Research & Development,Laboratory Technician,Yes,2,4442.0,19,0,1,2,2,0,Yes
+51281,52,Research & Development,Manufacturing Director,No,1,2318.0,27,6,3,4,4,1,No
+51282,41,Research & Development,Laboratory Technician,No,2,4627.0,19,1,4,1,2,0,No
+51283,37,Research & Development,Research Scientist,No,4,8015.0,15,9,2,2,2,0,No
+51284,18,Research & Development,Research Director,No,1,3459.0,0,0,2,3,2,0,No
+51285,19,Sales,Sales Executive,No,1,2892.0,0,0,2,3,2,0,No
+51286,38,Sales,Sales Representative,No,2,4715.0,16,16,2,4,2,0,No
+51287,34,Research & Development,Laboratory Technician,No,3,6946.0,14,2,2,4,2,0,No
+51288,27,Research & Development,Research Scientist,No,2,6113.0,3,2,4,2,4,0,No
+51289,38,Research & Development,Research Scientist,Yes,1,4774.0,18,6,4,4,2,0,No
+51290,38,Research & Development,Research Director,No,2,5333.0,16,1,2,1,2,0,No
+51291,45,Research & Development,Laboratory Technician,Yes,4,8903.0,22,15,4,1,4,1,No
+51292,38,Sales,Sales Representative,No,2,5035.0,16,3,4,4,2,1,No
+51293,48,Research & Development,Manufacturing Director,Yes,2,5633.0,26,13,1,1,1,0,Yes
+51294,37,Research & Development,Research Scientist,Yes,2,5551.0,19,10,2,2,1,0,No
+51295,36,Research & Development,Manufacturing Director,No,1,4643.0,16,10,3,3,2,0,No
+51296,47,Research & Development,Laboratory Technician,Yes,3,5250.0,26,3,2,2,3,0,Yes
+51297,28,Research & Development,Manufacturing Director,No,1,3239.0,7,2,2,4,4,0,No
+51298,62,Research & Development,Research Scientist,No,4,9005.0,37,28,2,2,1,0,No
+51299,40,Sales,Manager,Yes,1,3426.0,15,14,3,3,3,1,No
+51300,40,Research & Development,Research Scientist,Yes,1,2605.0,17,0,2,1,2,1,Yes
+51301,42,Research & Development,Manufacturing Director,No,3,5781.0,22,9,3,1,2,0,No
+51302,54,Research & Development,Manufacturing Director,Yes,3,7676.0,36,32,1,1,2,0,Yes
+51303,44,Sales,Sales Representative,Yes,2,4519.0,20,6,4,3,2,1,No
+51304,23,Research & Development,Research Scientist,Yes,1,1871.0,0,0,1,1,1,0,Yes
+51305,50,Sales,Sales Executive,No,1,4221.0,29,13,1,3,1,0,No
+51306,34,Sales,Manager,No,1,3863.0,10,9,1,2,3,1,No
+51307,38,Research & Development,Research Director,Yes,2,5096.0,13,13,2,3,1,0,No
+51308,25,Sales,Manager,No,1,2627.0,3,2,3,4,2,1,No
+51309,42,Research & Development,Research Scientist,No,2,5098.0,23,16,4,4,1,0,No
+51310,31,Sales,Sales Representative,Yes,2,6294.0,13,8,2,1,1,0,Yes
+51311,38,Research & Development,Research Scientist,No,1,1997.0,14,4,1,4,1,1,No
+51312,34,Sales,Manager,No,1,2042.0,12,11,2,4,2,1,No
+51313,54,Research & Development,Laboratory Technician,No,2,4635.0,35,1,1,3,1,0,No
+51314,55,Research & Development,Manufacturing Director,No,4,8676.0,37,2,2,1,1,0,No
+51315,37,Research & Development,Manufacturing Director,No,3,6503.0,12,7,3,3,2,1,No
+51316,38,Sales,Manager,Yes,1,4029.0,18,15,1,3,2,1,Yes
+51317,34,Research & Development,Laboratory Technician,No,1,4430.0,14,12,4,3,1,0,No
+51318,47,Research & Development,Laboratory Technician,No,3,7201.0,24,16,1,2,1,0,No
+51319,34,Sales,Sales Representative,No,1,3954.0,14,5,3,3,4,0,No
+51320,33,Sales,Sales Executive,Yes,2,5445.0,8,3,4,3,3,1,No
+51321,46,Research & Development,Research Scientist,No,3,6959.0,23,10,4,2,1,0,No
+51322,32,Research & Development,Manufacturing Director,Yes,1,2286.0,12,3,3,4,2,0,No
+51323,37,Research & Development,Research Director,No,2,4275.0,17,7,3,3,2,0,No
+51324,23,Sales,Sales Representative,No,2,3984.0,0,0,1,2,4,1,No
+51325,43,Research & Development,Research Director,No,4,8566.0,21,2,1,3,4,0,No
+51326,54,Sales,Sales Executive,Yes,3,7159.0,29,9,2,4,4,0,No
+51327,43,Research & Development,Laboratory Technician,No,2,3896.0,23,22,3,2,1,0,No
+51328,50,Research & Development,Manufacturing Director,Yes,2,5265.0,32,23,3,3,2,0,No
+51329,29,Research & Development,Laboratory Technician,Yes,2,4412.0,4,0,4,1,2,1,No
+51330,39,Research & Development,Research Scientist,No,1,2488.0,20,6,2,2,3,1,No
+51331,29,Sales,Sales Executive,No,1,2887.0,5,1,4,3,4,0,No
+51332,35,Research & Development,Research Director,No,1,2442.0,12,3,2,4,2,0,No
+51333,44,Research & Development,Manufacturing Director,No,2,5746.0,25,17,1,3,3,0,No
+51334,38,Human Resources,Human Resources,Yes,2,5049.0,14,13,3,3,2,0,No
+51335,24,Human Resources,Human Resources,Yes,3,7684.0,6,4,1,2,1,0,Yes
+51336,25,Sales,Sales Executive,No,1,3051.0,4,2,2,3,2,0,No
+51337,25,Research & Development,Research Director,No,1,3085.0,5,0,4,2,3,0,No
+51338,41,Research & Development,Research Scientist,No,3,8636.0,18,2,4,1,2,0,No
+51339,56,Sales,Manager,Yes,3,5489.0,34,28,2,1,3,1,No
+51340,49,Research & Development,Research Scientist,No,4,9856.0,27,18,1,3,3,0,No
+51341,20,Research & Development,Laboratory Technician,No,1,4939.0,0,0,1,4,2,0,Yes
+51342,50,Sales,Sales Executive,Yes,2,5889.0,27,14,1,2,4,1,No
+51343,45,Research & Development,Research Director,Yes,1,3153.0,26,15,4,4,1,1,No
+51344,23,Research & Development,Research Scientist,No,1,4734.0,0,0,4,4,4,0,No
+51345,34,Human Resources,Human Resources,No,1,3160.0,16,14,3,3,1,0,No
+51346,47,Research & Development,Laboratory Technician,No,3,6315.0,29,24,3,4,2,0,No
+51347,42,Research & Development,Laboratory Technician,No,1,3101.0,19,1,2,2,4,0,No
+51348,25,Research & Development,Research Scientist,No,2,4687.0,6,2,1,2,3,0,No
+51349,42,Research & Development,Research Director,Yes,2,4348.0,18,0,1,3,2,0,No
+51350,18,Research & Development,Laboratory Technician,No,1,4449.0,0,0,3,3,4,0,No
+51351,35,Sales,Sales Representative,Yes,1,2754.0,16,6,1,3,1,1,Yes
+51352,47,Sales,Sales Representative,No,3,6923.0,22,14,1,2,3,0,No
+51353,37,Research & Development,Research Director,Yes,1,2151.0,18,3,4,4,3,1,No
+51354,33,Research & Development,Laboratory Technician,No,1,3478.0,8,1,3,1,1,0,No
+51355,45,Sales,Sales Representative,No,3,5910.0,25,12,2,1,4,1,No
+51356,46,Research & Development,Laboratory Technician,No,3,5888.0,22,12,1,2,4,0,No
+51357,49,Research & Development,Laboratory Technician,No,2,5102.0,24,17,1,1,1,0,No
+51358,45,Research & Development,Research Scientist,No,3,7901.0,27,0,2,2,1,0,No
+51359,47,Sales,Sales Representative,No,2,5596.0,27,6,2,3,1,0,No
+51360,44,Research & Development,Research Scientist,No,2,5658.0,22,17,3,2,2,0,No
+51361,39,Sales,Sales Executive,No,1,3333.0,15,10,1,1,2,0,No
+51362,38,Research & Development,Research Scientist,No,3,6648.0,19,17,1,2,3,0,No
+51363,35,Research & Development,Laboratory Technician,No,1,4162.0,16,13,1,3,3,0,No
+51364,26,Research & Development,Research Director,No,2,4693.0,6,5,2,4,1,0,No
+51365,28,Research & Development,Manufacturing Director,No,1,4201.0,9,5,2,4,2,0,No
+51366,34,Research & Development,Research Director,No,2,6312.0,14,14,1,3,4,0,No
+51367,39,Research & Development,Laboratory Technician,No,2,4443.0,20,8,3,1,4,0,No
+51368,50,Research & Development,Research Director,Yes,4,8075.0,26,24,2,1,2,0,Yes
+51369,37,Research & Development,Research Scientist,Yes,1,2959.0,13,5,1,2,1,1,Yes
+51370,46,Research & Development,Manufacturing Director,No,3,5630.0,27,12,3,1,1,0,No
+51371,47,Research & Development,Research Director,Yes,4,8278.0,25,17,2,3,2,0,No
+51372,35,Sales,Sales Representative,No,1,4621.0,12,5,2,2,2,1,No
+51373,42,Research & Development,Research Director,No,2,4259.0,19,2,2,4,2,0,No
+51374,35,Sales,Sales Executive,Yes,1,4643.0,10,9,1,2,1,0,Yes
+51375,49,Human Resources,Human Resources,No,2,4810.0,26,12,2,2,2,0,No
+51376,43,Research & Development,Research Director,Yes,3,8853.0,20,19,3,3,2,0,No
+51377,26,Sales,Sales Executive,No,1,2836.0,8,3,1,1,2,0,Yes
+51378,38,Sales,Manager,No,1,3320.0,20,20,3,4,1,0,No
+51379,52,Research & Development,Manufacturing Director,Yes,4,7881.0,30,18,1,3,4,0,Yes
+51380,35,Research & Development,Research Director,Yes,2,4581.0,10,8,3,3,2,0,No
+51381,41,Research & Development,Laboratory Technician,No,4,9904.0,20,15,1,2,2,0,No
+51382,42,Research & Development,Research Director,No,2,5627.0,19,4,1,4,4,0,No
+51383,28,Research & Development,Research Scientist,Yes,1,4376.0,9,8,2,4,3,0,Yes
+51384,42,Human Resources,Human Resources,No,1,2266.0,21,20,3,1,1,0,No
+51385,24,Human Resources,Human Resources,Yes,1,4039.0,0,0,3,3,1,0,Yes
+51386,31,Research & Development,Research Director,No,1,2576.0,8,5,2,4,1,0,No
+51387,47,Sales,Manager,Yes,3,5746.0,29,28,1,2,3,1,No
+51388,40,Research & Development,Research Director,No,2,5415.0,15,13,2,3,2,0,No
+51389,34,Sales,Manager,Yes,1,3656.0,9,6,4,4,2,1,No
+51390,41,Research & Development,Laboratory Technician,No,2,5248.0,20,10,1,2,3,0,No
+51391,36,Sales,Sales Executive,No,1,4096.0,16,14,3,3,3,0,No
+51392,37,Sales,Manager,Yes,2,5986.0,15,2,2,3,1,0,No
+51393,43,Research & Development,Laboratory Technician,No,1,4773.0,19,11,1,1,1,1,No
+51394,30,Research & Development,Research Scientist,Yes,1,2379.0,9,8,3,1,4,0,Yes
+51395,37,Sales,Manager,No,3,8302.0,19,18,1,3,4,1,No
+51396,34,Research & Development,Research Director,No,3,8644.0,16,4,2,1,4,1,No
+51397,23,Research & Development,Laboratory Technician,No,1,3120.0,0,0,1,4,4,1,No
+51398,29,Sales,Manager,Yes,1,1948.0,5,0,3,3,2,1,Yes
+51399,51,Research & Development,Research Scientist,Yes,3,5705.0,27,9,1,3,4,0,Yes
+51400,40,Research & Development,Research Scientist,Yes,2,4784.0,21,19,1,2,4,0,Yes
+51401,25,Research & Development,Laboratory Technician,No,1,5263.0,6,3,3,2,4,1,No
+51402,23,Research & Development,Manufacturing Director,Yes,1,3465.0,2,0,4,2,1,0,Yes
+51403,36,Human Resources,Human Resources,No,1,2895.0,17,2,1,3,1,0,No
+51404,51,Research & Development,Research Scientist,No,4,8083.0,30,10,2,2,2,0,No
+51405,35,Research & Development,Manufacturing Director,No,1,2260.0,13,4,4,2,3,1,No
+51406,49,Research & Development,Research Director,No,4,9487.0,29,4,2,1,4,0,No
+51407,40,Human Resources,Manager,Yes,1,3367.0,22,11,2,3,2,0,Yes
+51408,41,Research & Development,Research Director,No,1,5340.0,20,10,4,3,4,1,No
+51409,25,Sales,Manager,No,1,4015.0,2,0,3,3,4,1,No
+51410,45,Sales,Sales Representative,No,3,7697.0,23,5,2,2,4,0,No
+51411,34,Sales,Sales Representative,No,1,3232.0,14,9,4,1,1,1,No
+51412,45,Human Resources,Manager,No,2,4218.0,25,24,3,2,1,0,No
+51413,30,Sales,Sales Representative,No,1,2664.0,8,8,3,2,1,0,No
+51414,39,Sales,Sales Executive,Yes,2,3968.0,20,11,2,1,3,1,No
+51415,40,Research & Development,Research Director,No,3,7769.0,16,0,4,4,3,0,No
+51416,36,Sales,Sales Executive,Yes,1,3104.0,12,11,4,2,2,1,No
+51417,41,Research & Development,Research Director,No,2,6057.0,23,22,4,2,1,0,No
+51418,35,Research & Development,Laboratory Technician,No,1,3572.0,10,3,3,3,3,1,No
+51419,31,Sales,Manager,Yes,1,3186.0,13,5,2,4,3,1,Yes
+51420,51,Human Resources,Human Resources,No,4,7647.0,30,0,1,2,2,1,No
+51421,46,Sales,Sales Representative,No,2,5471.0,23,19,1,3,2,0,No
+51422,30,Research & Development,Laboratory Technician,Yes,1,3253.0,10,8,4,1,3,0,Yes
+51423,42,Research & Development,Laboratory Technician,No,2,6012.0,23,0,2,3,3,0,No
+51424,30,Research & Development,Laboratory Technician,No,1,2806.0,12,9,1,1,3,1,No
+51425,26,Research & Development,Research Director,No,1,4004.0,3,1,1,1,4,0,No
+51426,46,Research & Development,Laboratory Technician,No,3,8427.0,28,15,1,3,2,0,No
+51427,22,Research & Development,Research Director,No,1,3695.0,1,0,3,1,3,0,No
+51428,45,Research & Development,Laboratory Technician,No,4,9407.0,24,20,3,1,4,0,No
+51429,35,Sales,Sales Executive,No,1,3965.0,10,4,2,1,1,1,No
+51430,35,Research & Development,Research Director,No,1,5158.0,10,9,3,4,2,0,No
+51431,41,Sales,Sales Executive,No,2,5534.0,17,2,2,3,1,0,No
+51432,42,Research & Development,Laboratory Technician,No,1,4080.0,19,11,4,2,2,1,No
+51433,30,Research & Development,Research Director,No,1,3417.0,8,2,4,4,1,0,No
+51434,43,Research & Development,Research Director,No,2,4503.0,23,23,1,2,3,0,No
+51435,38,Research & Development,Research Director,No,3,5863.0,19,11,2,4,1,0,No
+51436,26,Human Resources,Human Resources,No,1,4590.0,1,1,4,2,3,1,No
+51437,35,Research & Development,Research Director,No,1,2542.0,14,1,3,1,3,0,No
+51438,49,Research & Development,Laboratory Technician,No,4,9371.0,28,19,4,1,4,0,No
+51439,52,Sales,Manager,No,3,7324.0,33,3,2,2,2,1,No
+51440,43,Human Resources,Manager,No,1,4276.0,23,8,1,1,2,0,No
+51441,26,Research & Development,Research Scientist,Yes,1,2987.0,3,0,4,1,1,0,Yes
+51442,41,Research & Development,Laboratory Technician,No,2,4488.0,20,0,4,2,3,0,No
+51443,45,Research & Development,Laboratory Technician,No,3,7291.0,23,14,3,4,1,0,No
+51444,44,Research & Development,Laboratory Technician,No,2,4937.0,25,6,2,1,1,0,No
+51445,44,Research & Development,Laboratory Technician,Yes,2,4092.0,26,13,1,1,4,1,Yes
+51446,40,Research & Development,Manufacturing Director,Yes,3,8695.0,15,12,3,4,3,1,No
+51447,36,Sales,Sales Executive,No,2,4488.0,15,2,3,1,1,0,No
+51448,32,Research & Development,Research Scientist,No,2,4306.0,12,9,3,4,3,0,No
+51449,20,Research & Development,Research Director,Yes,1,3232.0,0,0,1,3,2,0,Yes
+51450,40,Research & Development,Laboratory Technician,No,2,6328.0,17,5,3,4,1,0,No
