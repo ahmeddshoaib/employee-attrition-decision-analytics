@@ -1,8 +1,8 @@
 # Employee Attrition Decision Analytics
 
-A reproducible employee-retention case that combines segment diagnosis, comparable model evaluation and a decision matrix for prioritising interventions.
+This project examines where employee attrition is concentrated, compares three classification models on the same test population and separates high attrition rates from the number of employees affected.
 
-The submitted MSc project used KNIME and Tableau on **1,450 employees**, including **279 leavers**. It found the strongest descriptive concentration around overtime, age, role and department. The public rebuild keeps that decision logic while replacing the unavailable university dataset with a clearly labelled synthetic validation set.
+The submitted MSc project used KNIME and Tableau on **1,450 employees**, including **279 leavers**. It found the strongest descriptive concentration around overtime, age, role and department. Because the university source file is not available for publication, this repository checks the same decision logic with a clearly labelled synthetic dataset.
 
 ## Historical project evidence
 
@@ -14,7 +14,7 @@ The submitted analysis reported:
 | Random forest | 86.20% | 0.871 |
 | Gradient boosted trees | **87.24%** | **0.895** |
 
-These figures describe the archived KNIME run. They are not presented as results of this public rebuild. The new pipeline reports its synthetic check separately and applies the same class-weighting logic across models for a fairer comparison.
+These figures describe the archived KNIME run. The Python pipeline reports its synthetic check separately and applies the same class-weighting logic across models for a fairer comparison.
 
 ![Synthetic model comparison](figures/model_comparison.png)
 
@@ -44,7 +44,7 @@ Segments in the high-rate, high-volume quadrant become the first candidates for 
 |---|---|
 | `src/attrition.py` | Preparation, model pipelines, evaluation and priority matrix |
 | `scripts/generate_demo_data.py` | Reproducible 1,450-row synthetic HR dataset |
-| `scripts/run_analysis.py` | End-to-end run |
+| `scripts/run_analysis.py` | Model run and output generation |
 | `outputs/` | Labelled metrics and decision tables |
 | `figures/` | Model and intervention visuals |
 | `tests/` | Data-grain, label and output checks |
@@ -66,5 +66,5 @@ This analysis identifies associations and supports prioritisation. It does not e
 
 ## Author
 
-**Muhammad Ahmed Shoaib** — HR analytics, classification and decision communication.
-
+**Muhammad Ahmed Shoaib**<br>
+HR analytics, classification and decision communication.
