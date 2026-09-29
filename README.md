@@ -4,6 +4,16 @@ This project examines where employee attrition is concentrated, compares three c
 
 The submitted MSc project used KNIME and Tableau on **1,450 employees**, including **279 leavers**. It found the strongest descriptive concentration around overtime, age, role and department. Because the university source file is not available for publication, this repository checks the same decision logic with a clearly labelled synthetic dataset.
 
+## Business question
+
+An attrition model is useful only if it leads to a responsible intervention. This project therefore moves from prediction to prioritisation: where is attrition unusually concentrated, how many employees are affected, which patterns remain visible across different models, and what should HR investigate at team level?
+
+The unit of action is a workforce segment rather than an individual employee. Overtime, role, department and age bands are used to identify operating conditions worth reviewing; they are not used to label a person as a likely leaver or to support an adverse employment decision.
+
+## What I built
+
+The original assignment combined KNIME data preparation and classification with a Tableau storyboard. I prepared the data, compared decision tree, random forest and gradient-boosted models, interpreted the main predictors and connected the results to retention recommendations. The public version rebuilds the decision logic in Python, applies consistent class treatment across models, exports a segment-level priority table and adds automated checks around row grain, labels and saved results.
+
 ## Historical project evidence
 
 The submitted analysis reported:
@@ -26,6 +36,8 @@ A high attrition rate can affect very few employees; a large department can crea
 - **business exposure:** number of leavers in that segment.
 
 Segments in the high-rate, high-volume quadrant become the first candidates for workload review, management investigation and retention testing.
+
+That distinction changes the management response. A small segment with a high rate may need a focused qualitative investigation; a large segment with a moderate rate may create the greater recruitment, training and continuity cost. The matrix keeps both questions visible.
 
 ![Synthetic priority matrix](figures/retention_priority_matrix.png)
 
