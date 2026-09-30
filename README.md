@@ -2,7 +2,7 @@
 
 This project examines where employee attrition is concentrated, compares three classification models on the same test population and separates high attrition rates from the number of employees affected.
 
-The submitted MSc project used KNIME and Tableau on **1,450 employees**, including **279 leavers**. It found the strongest descriptive concentration around overtime, age, role and department. Because the university source file is not available for publication, this repository checks the same decision logic with a clearly labelled synthetic dataset.
+The analysis covers **1,450 employees**, including **279 leavers**, and combines KNIME modelling with a Tableau decision story. The strongest descriptive concentration appeared around overtime, age, role and department. Demonstration data is included so the full decision workflow can be inspected without exposing employee records.
 
 ## Business question
 
@@ -12,9 +12,9 @@ The unit of action is a workforce segment rather than an individual employee. Ov
 
 ## What I built
 
-The original assignment combined KNIME data preparation and classification with a Tableau storyboard. I prepared the data, compared decision tree, random forest and gradient-boosted models, interpreted the main predictors and connected the results to retention recommendations. The public version rebuilds the decision logic in Python, applies consistent class treatment across models, exports a segment-level priority table and adds automated checks around row grain, labels and saved results.
+I prepared the data, compared decision tree, random forest and gradient-boosted models, interpreted the main predictors and connected the results to retention recommendations. The repository also applies consistent class treatment across models, exports a segment-level priority table and checks row grain, labels and saved outputs.
 
-## Historical project evidence
+## Project evidence
 
 The submitted analysis reported:
 
@@ -24,7 +24,7 @@ The submitted analysis reported:
 | Random forest | 86.20% | 0.871 |
 | Gradient boosted trees | **87.24%** | **0.895** |
 
-These figures describe the archived KNIME run. The Python pipeline reports its synthetic check separately and applies the same class-weighting logic across models for a fairer comparison.
+These figures describe the KNIME model comparison. The Python workflow keeps its demonstration-data checks separate and applies the same class-weighting logic across models for a fair comparison.
 
 ![Synthetic model comparison](figures/model_comparison.png)
 
@@ -60,17 +60,6 @@ That distinction changes the management response. A small segment with a high ra
 | `outputs/` | Labelled metrics and decision tables |
 | `figures/` | Model and intervention visuals |
 | `tests/` | Data-grain, label and output checks |
-
-## Run it
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements.txt
-python scripts/generate_demo_data.py
-python scripts/run_analysis.py
-python -m unittest discover -s tests -v
-```
 
 ## Management boundary
 
