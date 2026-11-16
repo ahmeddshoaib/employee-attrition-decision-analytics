@@ -61,6 +61,20 @@ That distinction changes the management response. A small segment with a high ra
 | `figures/` | Model and intervention visuals |
 | `tests/` | Data-grain, label and output checks |
 
+## Run the synthetic validation
+
+Use Python 3.11 or later.
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python scripts/run_analysis.py
+python -m pytest -q
+```
+
+The saved academic metrics and the synthetic Python validation are labelled separately throughout the repository.
+
 ## Management boundary
 
 This analysis identifies associations and supports prioritisation. It does not establish that overtime causes attrition, and it must not be used for adverse employment decisions about individuals. Any live deployment would require fairness review, data-protection controls, employee consultation and intervention testing.
